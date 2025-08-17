@@ -1,0 +1,39 @@
+{
+  "Pistol": {
+    "Doubles Y Off": [
+      "Fade Smash"
+,      "HB Dive"
+,      "HB Stretch Alert Bubble"
+,      "Jet Pass Fk Zone"
+,      "Jet Touch Pass"
+,      "PA Cross"
+,      "Slants"
+,      "Tech Out"
+,      "Zone Fake Jet"
+    ]
+,    "Strong Slot Open": [
+      "China Y Corner"
+,      "F Lead Read Option"
+,      "Inside Zone Split"
+,      "Mesh"
+,      "Mesh Dig"
+,      "Mid Slants"
+,      "PA Slide"
+,      "Scat"
+,      "Shakes"
+,      "Stretch Alert X Lookie"
+,      "Y Cross"
+,      "Zone Alert Bubble"
+    ]
+,    "Trips Left Open": [
+      "Close HB Dive"
+,      "Counter Alert Flat"
+,      "Four Verticals"
+,      "HB Draw"
+,      "HB Slip Screen"
+,      "Mesh Dig"
+,      "Out N Under"
+,      "Scat"
+,      "Y Stick"
+    ]
+  }}

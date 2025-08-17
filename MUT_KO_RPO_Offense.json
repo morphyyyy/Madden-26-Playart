@@ -1,0 +1,124 @@
+{
+  "I Form": {
+    "Pro": [
+      "26 Duo Alert X Lookie"
+,      "HB Stretch Alert X Lookie"
+,      "Power O Alert X Smoke"
+    ]
+,    "Slot": [
+      "26 Duo Alert Bubble"
+,      "HB Dive Alert Bubble"
+,      "HB Stretch Alert Bubble KO"
+    ]
+  },  "Kickoff": {
+    "Heavy Landing Zone NFL Kickoff": [
+      "Heavy Kickoff Left"
+,      "Heavy Kickoff Middle"
+,      "Heavy Kickoff Right"
+    ]
+,    "Landing Zone NFL Kickoff": [
+      "Kickoff Left"
+,      "Kickoff Middle"
+,      "Kickoff Right"
+    ]
+,    "NFL Kickoff": [
+      "Kickoff  Deep Middle"
+,      "Kickoff  Deep Right"
+,      "Kickoff Deep Left"
+    ]
+,    "NFL Onside Kick": [
+      "Onside Kick"
+    ]
+,    "NFL Onside Kick 2": [
+      "Speed Onside"
+    ]
+,    "NFL Onside Kick 3": [
+      "Strong Onside"
+    ]
+  },  "Pistol": {
+    "Philly": [
+      "Philly Special"
+    ]
+  },  "Safety Kickoff": {
+    "Landing Zone Heavy Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Punt": [
+      "Punt Left"
+,      "Punt Middle"
+,      "Punt Right"
+    ]
+  },  "Shotgun": {
+    "Double Stack": [
+      "Four Verticals"
+,      "RPO Alert Screen"
+,      "RPO Read FL Screen"
+    ]
+,    "Doubles HB Wk": [
+      "RPO Alert Bubble"
+,      "RPO Alert Bubble"
+,      "RPO Peek Slant"
+    ]
+,    "Doubles Offset Wk": [
+      "RPO Alert Power Bubble"
+,      "RPO Peek Orbit Bubble"
+,      "RPO Peek Orbit Slant"
+    ]
+,    "Split Slot Offset": [
+      "Mtn RPO Peek Swing"
+,      "Mtn RPO Peek Swing Wk"
+,      "Mtn Spot"
+    ]
+,    "Stack Y Off": [
+      "Fake Jet HB Seam"
+,      "Fake Jet Pass Power"
+,      "Jet Touch Pass"
+    ]
+,    "Trips": [
+      "RPO Alert Bubble"
+,      "RPO Read Screen"
+,      "Slot Drive KO"
+    ]
+  },  "Singleback": {
+    "Wing Pair": [
+      "RPO Alert Dive Smoke"
+,      "Spacing"
+,      "Stretch WR Screen"
+    ]
+  },  "Special": {
+    "Field Goal": [
+      "Fake FG K Direct Snap"
+,      "Fake FG K Toss Pass"
+,      "Fake FG Kicker Flip"
+,      "Fake FG Rollout Pass"
+,      "Field Goal"
+,      "Field Goal 2"
+    ]
+,    "Punt": [
+      "Fake Punt Off Tackle"
+,      "Fake Punt Sweep"
+,      "Fake Punt W Release"
+,      "Fake Punt X Curl"
+,      "Punt"
+,      "Punt 2"
+    ]
+,    "Punt Tight": [
+      "Punt"
+    ]
+,    "QB Kneel": [
+      "QB Kneel"
+    ]
+,    "Stop Clock": [
+      "Fake Spike"
+,      "Fake Spike 2"
+,      "Fake Spike 3"
+,      "Spike Ball"
+    ]
+  }}

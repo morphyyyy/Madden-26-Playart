@@ -1,0 +1,111 @@
+{
+  "Kickoff": {
+    "Heavy Landing Zone NFL Kickoff": [
+      "Heavy Kickoff Left"
+,      "Heavy Kickoff Middle"
+,      "Heavy Kickoff Right"
+    ]
+,    "Landing Zone NFL Kickoff": [
+      "Kickoff Left"
+,      "Kickoff Middle"
+,      "Kickoff Right"
+    ]
+,    "NFL Kickoff": [
+      "Kickoff  Deep Middle"
+,      "Kickoff  Deep Right"
+,      "Kickoff Deep Left"
+    ]
+,    "NFL Onside Kick": [
+      "Onside Kick"
+    ]
+,    "NFL Onside Kick 2": [
+      "Speed Onside"
+    ]
+,    "NFL Onside Kick 3": [
+      "Strong Onside"
+    ]
+  },  "Safety Kickoff": {
+    "Landing Zone Heavy Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Punt": [
+      "Punt Left"
+,      "Punt Middle"
+,      "Punt Right"
+    ]
+  },  "Shotgun": {
+    "Ace Slot Offset": [
+      "0 1 Trap"
+,      "PA Post Shot"
+,      "Posts"
+    ]
+,    "Bunch": [
+      "Bunch Trail"
+,      "Mesh Spot"
+,      "Z Cross"
+    ]
+,    "Doubles": [
+      "HB Mid Draw KO"
+,      "Jet Touch Pass"
+,      "PA Read Boot"
+,      "Shark HB Wheel"
+,      "Smash Post"
+,      "Y Cross"
+    ]
+,    "Empty Base Flex": [
+      "Middle Hi Lo"
+,      "Stick"
+,      "Y Shallow Cross"
+    ]
+,    "Empty Trey": [
+      "Dbl Slot Cross"
+,      "Stick"
+,      "Stick N Nod"
+    ]
+,    "Spread": [
+      "Deep Attack"
+,      "HB Option"
+,      "X Follow"
+    ]
+,    "Tight Offset TE": [
+      "Bench"
+,      "Mesh Spot"
+,      "Rams Y Out"
+    ]
+  },  "Special": {
+    "Field Goal": [
+      "Fake FG K Direct Snap"
+,      "Fake FG K Toss Pass"
+,      "Fake FG Kicker Flip"
+,      "Fake FG Rollout Pass"
+,      "Field Goal"
+,      "Field Goal 2"
+    ]
+,    "Punt": [
+      "Fake Punt Off Tackle"
+,      "Fake Punt Sweep"
+,      "Fake Punt W Release"
+,      "Fake Punt X Curl"
+,      "Punt"
+,      "Punt 2"
+    ]
+,    "Punt Tight": [
+      "Punt"
+    ]
+,    "QB Kneel": [
+      "QB Kneel"
+    ]
+,    "Stop Clock": [
+      "Fake Spike"
+,      "Fake Spike 2"
+,      "Fake Spike 3"
+,      "Spike Ball"
+    ]
+  }}

@@ -1,0 +1,40 @@
+{
+  "Shotgun": {
+    "Doubles Y Off Nasty": [
+      "HB Slip Screen"
+,      "Inside Zone"
+,      "Mtn HB Cross Screen"
+,      "Mtn Slot Fades"
+,      "Mtn Smash"
+,      "RPO Zone Read Bubble"
+    ]
+,    "Empty Base": [
+      "Mtn HB Screen"
+,      "WR Mid Screen"
+,      "WR Screen"
+    ]
+,    "Spread": [
+      "HB Cross Screen"
+,      "HB Slip Screen"
+,      "RPO Alert Bubble"
+,      "RPO Alert WR Screens"
+,      "WR Mid Screen"
+,      "WR Screen"
+    ]
+,    "Trips TE": [
+      "HB Slip Screen"
+,      "Orbit Cross Screen"
+,      "Orbit TE Middle Screen"
+,      "RPO Alert Bubble"
+,      "RPO Alert Mtn Screen"
+,      "WR Screen"
+    ]
+,    "Y Trips Wk": [
+      "HB Cross Screen"
+,      "HB Slip Screen"
+,      "Inside Zone"
+,      "RPO Buck Alert Smoke"
+,      "WR Mid Screen"
+,      "WR Screen"
+    ]
+  }}

@@ -1,0 +1,46 @@
+{
+  "Shotgun": {
+    "Double Wing": [
+      "Mesh Sit"
+,      "QB Blast"
+,      "QB Power"
+    ]
+,    "Empty Ace": [
+      "Fake Jet Pass Power"
+,      "Jet QB Counter"
+,      "Jet QB Zone"
+,      "Jet QB Zone Wk"
+,      "Jet Touch Pass"
+,      "PA Jet Sweep"
+    ]
+,    "Split Slot Offset": [
+      "Mtn RPO Swing QB Draw"
+,      "Mtn Triple Option Rt"
+,      "Mtn Y Stick"
+    ]
+,    "Spread Y-Flex": [
+      "QB Zone"
+,      "Read Option"
+,      "RPO Alert QB Draw"
+    ]
+,    "Wing Slot Wk": [
+      "Buck Sweep Read Opt"
+,      "Midline Read Option"
+,      "PA Inverted Veer"
+,      "Power Read"
+,      "QB Wrap"
+,      "Read Option"
+,      "RPO Read Bubble"
+,      "Speed Option"
+,      "TE Lead Read Opt"
+    ]
+  },  "Singleback": {
+    "Wing Tight": [
+      "26 Duo"
+,      "Dragon Spacing"
+,      "Fake HB Zone QB Boot"
+,      "HB Counter Wk"
+,      "Mesh Spot"
+,      "Y Stick"
+    ]
+  }}

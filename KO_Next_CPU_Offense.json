@@ -1,0 +1,130 @@
+{
+  "Kickoff": {
+    "Heavy Landing Zone NFL Kickoff": [
+      "Heavy Kickoff Left"
+,      "Heavy Kickoff Middle"
+,      "Heavy Kickoff Right"
+    ]
+,    "Landing Zone NFL Kickoff": [
+      "Kickoff Left"
+,      "Kickoff Middle"
+,      "Kickoff Right"
+    ]
+,    "NFL Kickoff": [
+      "Kickoff  Deep Middle"
+,      "Kickoff  Deep Right"
+,      "Kickoff Deep Left"
+    ]
+,    "NFL Onside Kick": [
+      "Onside Kick"
+    ]
+,    "NFL Onside Kick 2": [
+      "Speed Onside"
+    ]
+,    "NFL Onside Kick 3": [
+      "Strong Onside"
+    ]
+  },  "Safety Kickoff": {
+    "Landing Zone Heavy Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Punt": [
+      "Punt Left"
+,      "Punt Middle"
+,      "Punt Right"
+    ]
+  },  "Small Sided": {
+    "6 on 6 Empty": [
+      "Spread Cross"
+,      "Spread DBL Pass CPU"
+,      "Spread DBL Pass CPU WR1"
+,      "Spread DBL Pass CPU WR2"
+,      "Spread DBL Pass CPU WR2 2"
+,      "Spread DBL Smash"
+,      "Spread Drive"
+,      "Spread Flood"
+,      "Spread Mesh"
+,      "Spread Poco Under"
+,      "Spread Slot Pass"
+,      "Spread Slot Pass CPU Snap to WR3"
+,      "Spread Smash Slants"
+,      "Spread Strike"
+,      "Spread Strike CPU Snap to HB"
+    ]
+,    "6 on 6 Empty Bunch": [
+      "Bunch Dig Under"
+,      "Bunch Dig Under CPU Snap to HB"
+,      "Bunch RZ Attack"
+    ]
+,    "6 on 6 Empty Trips": [
+      "Trips DBL PASS CPU HB1"
+,      "Trips DBL PASS CPU WR2"
+,      "Trips DBL Smoke"
+,      "Trips RZ Fork"
+,      "Trips RZ Posts"
+,      "Trips Verts Hook"
+    ]
+,    "6 on 6 Slot": [
+      "Slot 3 Flare"
+,      "Slot 3 Flare CPU Snap to HB"
+,      "Slot Angle Outs"
+,      "Slot Flood"
+,      "Slot Flood CPU Snap to WR3"
+,      "Slot Hook Go's"
+,      "Slot Misdirection"
+,      "Slot Misdirection CPU Snap to HB"
+    ]
+,    "6 on 6 Split": [
+      "Split Criss Cross"
+,      "Split DBL Flare"
+,      "Split DBL Flare CPU Snap to HB"
+,      "Split DBL Flare CPU Snap to WR3"
+,      "Split Flood"
+,      "Split Flood CPU Snap to WR3"
+,      "Split Whip Under"
+,      "Split Whip Under CPU Snap to WR3"
+    ]
+,    "6 on 6 Split Backs": [
+      "SB Backs Cross"
+,      "SB Backs Cross CPU"
+,      "SB Backs Cross CPU Snap to HB"
+,      "SB DBL Flare CPU Snap to HB"
+,      "SB Misdirection"
+,      "SB Misdirection CPU Snap to HB"
+    ]
+  },  "Special": {
+    "Field Goal": [
+      "Fake FG H Shovel"
+,      "Fake FG Holder Power"
+,      "Fake FG K Flip Pass"
+,      "Fake FG Sprintout Pass"
+,      "Field Goal"
+,      "Field Goal 2"
+    ]
+,    "Punt": [
+      "Fake Punt FB Pass"
+,      "Fake Punt Shovel"
+,      "Fake Punt W Release"
+,      "Punt"
+,      "Punt 2"
+    ]
+,    "Punt Tight": [
+      "Punt"
+    ]
+,    "QB Kneel": [
+      "QB Kneel"
+    ]
+,    "Stop Clock": [
+      "Fake Spike"
+,      "Fake Spike 2"
+,      "Fake Spike 3"
+,      "Spike Ball"
+    ]
+  }}

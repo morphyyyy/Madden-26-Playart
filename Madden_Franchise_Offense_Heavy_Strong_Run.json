@@ -1,0 +1,38 @@
+{
+  "Strong I": {
+    "H Close Off": [
+      "HB Blunt Dive"
+,      "HB Stretch"
+,      "PA Slide"
+    ]
+,    "H Tight Close": [
+      "Counter Weak"
+,      "HB Blunt Dive"
+,      "HB Misdirection"
+,      "PA Power O"
+,      "PA Slide"
+,      "Power O"
+,      "Stutter Go's"
+,      "Y Trail"
+,      "Zone Wk"
+    ]
+,    "Jumbo": [
+      "FB Dive"
+,      "HB Dive"
+,      "Inside Zone Wk"
+,      "PA Spot"
+,      "PA Sprint HB Flat"
+,      "Power O"
+    ]
+,    "Wing": [
+      "FB Dive"
+,      "HB Counter Wk"
+,      "HB Dive"
+,      "HB Stretch"
+,      "Mtn Power O"
+,      "Mtn Zone Wk"
+,      "PA Mtn Power"
+,      "PA Slide"
+,      "PA Sprint HB Flat"
+    ]
+  }}

@@ -1,0 +1,396 @@
+{
+  "3-3-5": {
+    "Over Flex": [
+      "CB Bench Blitz"
+,      "Cover 1 LB Blitz"
+,      "Cover 1 SS Blitz "
+,      "Cover 3 Buzz Mable"
+,      "Cover 3 Match"
+,      "Cover 3 Sky"
+,      "Cover 4 Drop Field"
+,      "Cover 4 Palms"
+,      "Cover 4 Quarters"
+,      "Cover 6"
+,      "Cover 6 Willie"
+,      "Cover 9"
+,      "Double Bracket"
+,      "Edge Blitz 0"
+,      "Hot Blitz 3"
+,      "Nickel Sim 3"
+,      "Over 3 Sting"
+,      "Tampa 2"
+    ]
+  },  "3-4": {
+    "Even": [
+      "Cov 1 Robber Press"
+,      "Cover 3 Cloud"
+,      "Cover 3 Match"
+,      "Cover 3 Sky"
+,      "Cross Fire 3"
+,      "Mike Scrape 3 Press"
+,      "Pinch Buck 0"
+,      "Tampa 2"
+,      "Will Fire 3 Seam"
+    ]
+,    "Odd": [
+      "Cover 1 Hole"
+,      "Cover 1 Robber"
+,      "Cover 2 Hard Flat"
+,      "Cover 3 Match"
+,      "Cover 3 Sky"
+,      "Cover 4 Drop Show 2"
+,      "Cover 4 Quarters"
+,      "Cover 6"
+,      "Cross 3 Fire"
+,      "Pinch Buck 0"
+,      "Saw Blitz 1"
+,      "SS 2 Trap"
+,      "Storm Brave 1"
+,      "Tampa 2"
+,      "Will Buck 3 Press"
+    ]
+,    "Under": [
+      "Cover 1 FS Fire"
+,      "Cover 1 Hole Wk"
+,      "Cover 2 Invert"
+,      "Cover 2 Invert Hard Flat"
+,      "Cover 3 Hard Flat"
+,      "Cover 3 Match"
+,      "Cover 3 Sky"
+,      "Cover 4 Quarters"
+,      "Cover 6"
+,      "FS Slant 3"
+,      "MLB Cross Fire 3"
+,      "Pinch Buck 0"
+,      "Saw Blitz 1"
+,      "Weak Blitz 1"
+,      "Weak Blitz 3"
+    ]
+  },  "4-3": {
+    "Even 6-1": [
+      "Cover 1 Hole"
+,      "Cover 1 MLB Blitz"
+,      "Cover 3 Buzz"
+,      "Cover 4 Quarters"
+,      "Sam Blitz 3"
+,      "Sam Will Blitz"
+    ]
+  },  "Dime": {
+    "1-4 Dbl Mug": [
+      "Buck Zone Blitz"
+,      "Cover 1 Hole"
+,      "Cover 2 Invert "
+,      "Cover 3 Match"
+,      "Cover 3 Sky"
+,      "Hot Blitz 3"
+,      "Mid Blitz"
+,      "Nickel 2 Trap"
+,      "Nickel Overload 3"
+    ]
+,    "1-4-6": [
+      "Cover 1 Robber"
+,      "Cover 2 Man"
+,      "Cover 2 Sink"
+,      "Cover 3 Sky"
+,      "Cover 4 Drop"
+,      "Cover 6 Press"
+,      "Cross 3 Fire"
+,      "DB Sting"
+,      "DB Sting 2 Buzz"
+,      "Dbl Safety Go"
+,      "FS Zone Blitz"
+,      "Mike SS 1 Dog"
+,      "Mike SS 3 Seam"
+,      "Okie Eagle 3"
+,      "Okie Roll 2"
+,      "Overload 3 Seam"
+,      "Overload Blitz"
+,      "Spinner Dog 3"
+,      "Str Eagle Slant 3"
+,      "Strg Corner 2 Fire"
+,      "Tampa 2"
+    ]
+,    "2-3-6": [
+      "1 Double Slot"
+,      "1 Double TE"
+,      "1 Double WR1"
+,      "1 Double WR2"
+,      "Bracket Switch Willie"
+,      "Cover 1 Hole"
+,      "Cover 1 Robber Show 2"
+,      "Cover 2 Invert"
+,      "Cover 2 Man"
+,      "Cover 3 Buzz Mable"
+,      "Cover 3 Match"
+,      "Cover 3 Sky"
+,      "Cover 4 Palms"
+,      "Cover 4 Quarters"
+,      "Cover 6 Show 2"
+,      "Cover 6 Willie"
+,      "Cover 9 Show 2"
+,      "Dbl Safety Blitz"
+,      "Double Bracket"
+,      "Double Bracket Switch"
+,      "Edge Blitz 0"
+,      "Edge Blitz 3"
+,      "Field Sim 3"
+,      "FS Will Blitz 0"
+,      "Nickel 2 Trap"
+,      "Nickel Sim 2"
+,      "Over Storm Brave"
+,      "Overload 3 Press"
+,      "Sim Pressure 3"
+,      "Tampa 2"
+    ]
+,    "2-3-6 Sam": [
+      "Cover 1 Contain"
+,      "Cover 1 Robber Press"
+,      "Cover 2 Hard Flat"
+,      "Cover 2 Man"
+,      "Cover 2 Sink"
+,      "Cover 3 Hard Flat"
+,      "Cover 3 Lock"
+,      "Cover 3 Match"
+,      "Cover 4 Drop"
+,      "Cover 6 Press"
+,      "DB Fire 2"
+,      "Dbl Safety Go"
+,      "Edge Blitz 1"
+,      "Edge Blitz 2"
+,      "Edge Blitz 3"
+,      "FS Zone Blitz"
+,      "Okie Eagle 3"
+,      "Okie Roll 2"
+,      "Overload 3 Seam Press"
+,      "SS Zone Blitz"
+,      "Str Eagle Slant 3"
+,      "Strg Corner 2 Fire"
+,      "Tampa 2 Spy"
+,      "Zero Blitz"
+    ]
+  },  "Goal Line Defense": {
+    "5-3": [
+      "Gaps A B"
+,      "Gaps All"
+,      "Gaps All LB"
+,      "Gaps B"
+,      "GL Man"
+,      "MLB Gap A"
+    ]
+,    "6-2": [
+      "60 Half Out"
+,      "60 Out"
+,      "60 Out Jacks"
+,      "60 Pinch"
+,      "Base"
+,      "Guts"
+    ]
+  },  "Kick Return": {
+    "Landing Zone NFL Kick Return": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+,      "Return Trap Middle"
+    ]
+,    "Landing Zone NFL Trick Kick Return": [
+      "Return Reverse Left "
+,      "Return Reverse Right"
+,      "Returner Read Option"
+    ]
+,    "New NFL Kick Return Heavy": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+,      "Return Trap Middle"
+    ]
+,    "NFL Kick Return": [
+      "Return Left Lead"
+,      "Return Middle Match Up"
+,      "Return Right Lead"
+    ]
+,    "Onside Base": [
+      "Base Onside"
+    ]
+,    "Onside Heavy": [
+      "Onside XL"
+    ]
+,    "Onside Small": [
+      "Hands Team"
+    ]
+  },  "Nickel": {
+    "2-4": [
+      "1 Double Slot"
+,      "1 Double TE"
+,      "1 Double WR1"
+,      "1 Double WR2"
+,      "Bracket Switch Willie"
+,      "Buck Slant 3"
+,      "Cover 1 Contain"
+,      "Cover 1 Hole"
+,      "Cover 1 LB Blitz"
+,      "Cover 1 Robber"
+,      "Cover 2 Invert"
+,      "Cover 2 Man"
+,      "Cover 3 Buzz Mable"
+,      "Cover 3 Cloud"
+,      "Cover 3 Match"
+,      "Cover 3 Sky"
+,      "Cover 4 Drop Field"
+,      "Cover 4 Palms"
+,      "Cover 4 Quarters"
+,      "Cover 6"
+,      "Cover 6 Willie"
+,      "Cover 9 Show 2"
+,      "Dbl Safety Blitz"
+,      "Double Bracket"
+,      "Double Bracket Switch"
+,      "Edge Blitz 0"
+,      "Edge Blitz 3"
+,      "Field Sim 3"
+,      "FS Will Blitz 0"
+,      "Nickel 2 Trap"
+,      "Nickel Sim 2"
+,      "Over Storm Brave"
+,      "Overload 3 Seam"
+,      "Silver Shoot Pinch"
+,      "Sim Pressure 3"
+,      "Tampa 2"
+    ]
+,    "3-3 Cub": [
+      "1 Sam SS Blitz"
+,      "3 Sam SS Blitz"
+,      "3 Sam Will Blitz"
+,      "CB Blitz 2"
+,      "Cover 3 Buzz"
+,      "Cover 4 Show 2"
+,      "LB Blitz 1"
+,      "Mike Blitz 0"
+,      "Nickel Blitz 3"
+,      "OLB Blitz 1"
+,      "SS Blitz 0"
+,      "Tampa 2"
+    ]
+,    "3-3 Dbl Mug": [
+      "Buck Zone Blitz"
+,      "Cover 1 Hole"
+,      "Cover 2 Invert"
+,      "Cover 3 Match"
+,      "Cover 3 Sky"
+,      "Mid Blitz"
+,      "Nickel 2 Trap"
+,      "Nickel Dog 3 Buzz"
+,      "Nickel Dog Meg"
+,      "Nickel Overload 3"
+,      "SS Dog 3"
+,      "Tampa 2"
+    ]
+,    "3-3 Load Mug": [
+      "Cover 1 LB Blitz"
+,      "Cover 2 Man"
+,      "Cover 3 Cloud"
+,      "Cover 3 Match"
+,      "Cover 3 Sky"
+,      "Cover 6"
+,      "Cover 6 Willie "
+,      "Hot Blitz 3"
+,      "LB Blitz 0"
+,      "LB DE Twist 3"
+,      "Nickel Blitz 0"
+,      "Nickel Blitz 1"
+,      "Nickel Blitz 2"
+,      "Nickel Blitz 3"
+,      "Tampa 2"
+    ]
+,    "3-3 Odd": [
+      "1 Double WR1"
+,      "1 Double WR2"
+,      "3 Buzz Sting Press"
+,      "Cover 1 Robber Press"
+,      "Cover 2 Man"
+,      "Cover 3 Buzz Mable"
+,      "Cover 3 Cloud"
+,      "Cover 3 Match"
+,      "Cover 3 Sky"
+,      "Cover 4 Drop"
+,      "Cover 4 Palms"
+,      "Cover 4 Quarters"
+,      "Cover 6"
+,      "Cover 6 Willie"
+,      "Cover 9"
+,      "Double Bracket"
+,      "Hot Blitz Bail"
+,      "LB Cross 0"
+,      "LB Cross 3 Show 2"
+,      "Nickel 2 Trap"
+,      "Overload 3 Sky Press"
+,      "Pinch 0"
+,      "Sam Mike 1"
+,      "Sam Mike 3 Press"
+,      "Tampa 2"
+,      "Tampa 2 Drop"
+,      "Tampa Sim Pressure"
+    ]
+,    "3-3 Single Mug": [
+      "1 LB Dog"
+,      "Blitz Tex 3 Sim 3"
+,      "Cov 3 Buzz Match"
+,      "Cover 1 Hole"
+,      "Cover 2 Invert "
+,      "Cover 4 Quarters"
+,      "Cover 9"
+,      "DB Blitz Tex 3"
+,      "DT Mike Loop 3"
+,      "Nickel 2 Trap"
+,      "Nickel Blitz 3"
+,      "Tampa 2"
+    ]
+  },  "Prevent": {
+    "3 Deep": [
+      "3 Deep Blitz"
+,      "Cover 1 Contain"
+,      "Cover 2 Drop"
+,      "Cover 3"
+,      "Man 3 Deep"
+,      "Prevent"
+    ]
+  },  "Safety Kick Return": {
+    "Landing Zone Heavy Safety Return": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+,      "Return Trap Middle"
+    ]
+,    "Landing Zone Safety Return": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+,      "Return Trap Middle"
+    ]
+  },  "Special": {
+    "Field Goal Block Left": [
+      "Base Block Left"
+,      "Load Block Left"
+,      "Safe Man Left"
+    ]
+,    "Field Goal Block Right": [
+      "Base Block Right"
+,      "Load Block Right"
+,      "Safe Man Right"
+    ]
+,    "Field Goal Return": [
+      "FG Block Return"
+    ]
+,    "Punt Block 44 Even": [
+      "8 Up Safe Man"
+,      "Squeeze Block"
+,      "Straight Rush"
+    ]
+,    "Punt Return 33 Even": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+    ]
+,    "Punt Safe": [
+      "Punt Safe Man"
+    ]
+  }}

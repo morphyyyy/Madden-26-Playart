@@ -1,0 +1,43 @@
+{
+  "Shotgun": {
+    "Bunch TE": [
+      "Mesh"
+,      "Triple Out"
+,      "Verts Y Delay"
+    ]
+,    "Empty Trey": [
+      "Corner Strike"
+,      "Go's Y Shake"
+,      "Scissors"
+,      "Shock"
+,      "Smash"
+,      "Strong Flood"
+    ]
+,    "Spread Y-Slot": [
+      "Corner Strike"
+,      "Deep Attack"
+,      "Four Verticals"
+,      "PA Comebacks"
+,      "Slot Outs"
+,      "Smash HB Seam"
+    ]
+,    "Trips TE": [
+      "China Y Post"
+,      "Deep In"
+,      "Flood Y-Delay"
+,      "TE Corner"
+,      "Texas"
+,      "Verticals"
+    ]
+,    "Y Trips Wk": [
+      "Comebacks"
+,      "Corner Strike"
+,      "Dagger  Y Whip"
+,      "Fork Y Drag"
+,      "Four Verticals"
+,      "Seam Comebacks"
+,      "Shock H Option"
+,      "Strong Flood"
+,      "Y  Fork"
+    ]
+  }}

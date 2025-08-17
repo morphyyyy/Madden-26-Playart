@@ -1,0 +1,40 @@
+{
+  "Far": {
+    "Pro": [
+      "Curls"
+,      "Double Comeback"
+,      "FB Dive Weak"
+,      "HB Dive"
+,      "HB Slip Screen"
+,      "Inside Cross"
+,      "Omaha"
+,      "Slants"
+,      "Y Post"
+    ]
+  },  "Near": {
+    "Pro": [
+      "0 1 Trap"
+,      "Double Comeback"
+,      "FB Dive Strong"
+,      "FL Drive"
+,      "Flanker Hook"
+,      "HB Inside"
+,      "PA Strong Flow"
+,      "Quick Outs"
+,      "Slants"
+,      "Spacing"
+,      "Texas"
+,      "Z Spot"
+    ]
+,    "Y Left Slot": [
+      "0 1 Trap"
+,      "Curl Flat"
+,      "FB Dive"
+,      "Flanker Drive"
+,      "HB Inside"
+,      "PA Read Special"
+,      "Post Drag"
+,      "Slants"
+,      "Texas"
+    ]
+  }}

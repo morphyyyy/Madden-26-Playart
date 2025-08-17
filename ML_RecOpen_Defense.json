@@ -1,0 +1,30 @@
+{
+  "ST_Pass_Coverage_Cover1": {
+    "4-3 Normal Cover 1": [
+      "Cover 1 Lurk"
+,      "Cover 1 Press"
+    ]
+,    "Nickel Normal": [
+      "Cover 1"
+,      "Cover 1 Press Nick"
+    ]
+  },  "ST_Pass_Coverage_Cover2Man": {
+    "4-3 Normal Cover 2 Man": [
+      "Cover 2 Man 43"
+    ]
+,    "Nickel 2-4-5 Even": [
+      "2 Man Under 425"
+    ]
+,    "Nickel Normal": [
+      "2 Man Under Nickel"
+    ]
+  },  "ST_Pass_Coverage_Cover3": {
+    "Nickel Normal 3": [
+      "Cover 3 Nickel"
+    ]
+  },  "ST_Pass_Coverage_Cover4": {
+    "4-3 Normal Cover 4": [
+      "Cover 4"
+,      "Cover 4 Mills Inside"
+    ]
+  }}

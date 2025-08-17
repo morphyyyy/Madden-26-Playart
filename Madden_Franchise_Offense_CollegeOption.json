@@ -1,0 +1,40 @@
+{
+  "Flexbone": {
+    "Close": [
+      "Cntr Option"
+,      "FB Zone Dive"
+,      "Flood"
+,      "Inside Veer Triple Option"
+,      "Load Option"
+,      "Midline Triple"
+,      "PA FB Dive"
+,      "PA WB Post"
+,      "WB Dive"
+    ]
+,    "Normal": [
+      "FB Dive"
+,      "FB Zone Toss"
+,      "Fk FB Toss Rollout RT"
+,      "Flood"
+,      "Inside Veer Triple Option"
+,      "Load Option"
+,      "Midline Read Iso"
+,      "Midline Triple"
+,      "PA FB Dive"
+,      "PA HB Dive"
+,      "WB Dive"
+,      "X Dig"
+    ]
+  },  "Wishbone": {
+    "Tight": [
+      "Double Iso"
+,      "FB Sting"
+,      "HB Lead"
+,      "PA Boot"
+,      "PA Post"
+,      "PA Y Leak"
+,      "Power Option"
+,      "Speed Option Rev"
+,      "Triple Option"
+    ]
+  }}

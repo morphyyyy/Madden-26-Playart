@@ -1,0 +1,161 @@
+{
+  "3-4": {
+    "Odd": [
+      "Cover 4 Drop Show 2"
+,      "Crash Blitz 3"
+,      "Pinch Dog 2  Press"
+    ]
+,    "Under": [
+      "Cover 2 Man"
+,      "Cover 3 Match"
+,      "Tampa 2"
+    ]
+  },  "4-3": {
+    "Over Walk": [
+      "Cover 1 Contain"
+,      "Cover 2 Man"
+,      "Fire Zone 2"
+    ]
+,    "Over Wide": [
+      "Cover 2 Invert"
+,      "Cover 2 Man"
+,      "Free Fire 3"
+    ]
+  },  "46": {
+    "Bear Under": [
+      "Cover 2 Man"
+,      "Cover 3"
+,      "Gap Press"
+    ]
+  },  "5-2": {
+    "Normal": [
+      "Cover 2"
+,      "Fire Zone 2"
+,      "Pinch KO"
+    ]
+  },  "Big Nickel": {
+    "Over G": [
+      "Cover 2 Man"
+,      "Cover 6 Trap"
+,      "SS Blitz 2"
+    ]
+  },  "Dime": {
+    "2-3-6": [
+      "Cover 2 Man"
+,      "Cover 3 Bluff"
+,      "Slant Zone 2"
+    ]
+,    "2-3-6 Will": [
+      "Cover 1 Contain Spy"
+,      "DB Fire 2"
+,      "Edge Blitz 2"
+    ]
+  },  "Dollar": {
+    "3-2": [
+      "Cover 2 Hard Flat"
+,      "Cover 2 Man LB Blitz"
+,      "Cover 3 Match"
+,      "Cover 4 Drop Contain"
+,      "Spinner"
+,      "Tampa 2 Drop"
+    ]
+  },  "Kick Return": {
+    "Landing Zone NFL Kick Return": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+,      "Return Trap Middle"
+    ]
+,    "Landing Zone NFL Trick Kick Return": [
+      "Return Reverse Left "
+,      "Return Reverse Right"
+,      "Returner Read Option"
+    ]
+,    "New NFL Kick Return Heavy": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+,      "Return Trap Middle"
+    ]
+,    "NFL Kick Return": [
+      "Return Left Lead"
+,      "Return Middle Match Up"
+,      "Return Right Lead"
+    ]
+,    "Onside Base": [
+      "Base Onside"
+    ]
+,    "Onside Heavy": [
+      "Onside XL"
+    ]
+,    "Onside Small": [
+      "Hands Team"
+    ]
+  },  "Nickel": {
+    "2-4": [
+      "Buck Slant 3"
+,      "Cover 1 LB Blitz"
+,      "Cover 2 Man"
+    ]
+,    "3-3": [
+      "Cover 1 Contain Spy"
+,      "Cover 4 Drop"
+,      "Loop Crash 2"
+    ]
+,    "3-3 Cub": [
+      "3 Sam Will Blitz"
+,      "Cover 1 Contain"
+,      "Tampa 2"
+    ]
+,    "Over": [
+      "Cover 2 Man"
+,      "Cover 9 Show 2"
+,      "Overload 3 Seam"
+    ]
+  },  "Quarter": {
+    "1-3-7": [
+      "DB Strike 1"
+,      "FZ 2 Deep"
+,      "Man Up 3 Deep KO"
+    ]
+  },  "Safety Kick Return": {
+    "Landing Zone Heavy Safety Return": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+,      "Return Trap Middle"
+    ]
+,    "Landing Zone Safety Return": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+,      "Return Trap Middle"
+    ]
+  },  "Special": {
+    "Field Goal Block Left": [
+      "Base Block Left"
+,      "Load Block Left"
+,      "Safe Man Left"
+    ]
+,    "Field Goal Block Right": [
+      "Base Block Right"
+,      "Load Block Right"
+,      "Safe Man Right"
+    ]
+,    "Field Goal Return": [
+      "FG Block Return"
+    ]
+,    "Punt Block 44 Even": [
+      "8 Up Safe Man"
+,      "Squeeze Block"
+,      "Straight Rush"
+    ]
+,    "Punt Return 33 Even": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+    ]
+,    "Punt Safe": [
+      "Punt Safe Man"
+    ]
+  }}

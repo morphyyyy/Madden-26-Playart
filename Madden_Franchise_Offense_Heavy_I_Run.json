@@ -1,0 +1,39 @@
+{
+  "I Form": {
+    "H Wing": [
+      "HB Counter Wk"
+,      "HB Iso"
+,      "HB Power O"
+,      "HB Stretch"
+,      "HB Toss"
+,      "PA Power O"
+    ]
+,    "Tight": [
+      "FB Dive"
+,      "FB Fake HB Toss"
+,      "HB Counter"
+,      "HB Lead"
+,      "HB Power O"
+,      "HB Stretch"
+,      "HB Toss"
+,      "PA Boot"
+,      "PA Power O"
+,      "PA Sprint HB Flat"
+,      "PA TE Corner"
+,      "Z Slant"
+    ]
+,    "Wing": [
+      "FB Dive"
+,      "FB Fake HB Toss"
+,      "HB Lead"
+,      "HB Power O"
+,      "HB Stretch"
+,      "HB Zone Toss"
+,      "Mtn Power"
+,      "Mtn Zone"
+,      "PA Boot Flow"
+,      "PA U Slide"
+,      "RPO Stretch Alert X Lookie"
+,      "X Slant"
+    ]
+  }}

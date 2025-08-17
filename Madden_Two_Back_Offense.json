@@ -1,0 +1,633 @@
+{
+  "Far": {
+    "Pro": [
+      "Curls"
+,      "Double Comeback"
+,      "FB Dive Weak"
+,      "HB Dive"
+,      "HB Slip Screen"
+,      "Inside Cross"
+,      "Omaha"
+,      "Slants"
+,      "Y Post"
+    ]
+,    "Tight Slot": [
+      "Bench Switch"
+,      "Curl Drag"
+,      "Curls"
+,      "FB Dive"
+,      "Flats"
+,      "HB Dive"
+,      "Mesh"
+,      "Slot Corner"
+,      "X Spot"
+    ]
+  },  "Goal Line Offense": {
+    "Normal": [
+      "FB Dive"
+,      "HB Dive"
+,      "HB Sting"
+,      "PA Power O"
+,      "PA Spot"
+,      "PA Waggle"
+,      "Power O"
+,      "QB Sneak"
+,      "Strong Toss"
+    ]
+  },  "Hail Mary": {
+    "Spread": [
+      "Goal Post"
+    ]
+,    "Trio": [
+      "Hail Mary"
+,      "Shot Save Clock"
+    ]
+  },  "I Form": {
+    "Close": [
+      "95 Mike"
+,      "DBL Outs"
+,      "HB Iso"
+,      "HB Stretch"
+,      "HB Zone Toss"
+,      "PA Boot Flow"
+,      "PA Deep Cross Go"
+,      "PA Deep Read"
+,      "PA Spider Mesh"
+,      "PA TE Leak"
+,      "Power O"
+,      "Stutter Go's"
+    ]
+,    "H Pro": [
+      "Curls"
+,      "HB Counter Wk"
+,      "HB Slam"
+,      "HB Stretch"
+,      "PA Scissors"
+,      "Short Slants"
+    ]
+,    "Pro": [
+      "Curls"
+,      "FB Dive Fake HB"
+,      "FB Fake HB Flip"
+,      "HB Blast Alert Z Lookie"
+,      "HB Counter Str"
+,      "HB Iso"
+,      "HB Stretch Alert X Smoke"
+,      "Mid Attack"
+,      "PA Comeback Slide"
+,      "PA Power O"
+,      "PA WR In"
+,      "PA X Dig"
+,      "Power O"
+,      "Quick Slants"
+,      "X Post"
+    ]
+,    "Slot": [
+      "95 Willie"
+,      "Dagger"
+,      "FB Dive Strong"
+,      "FB Flare"
+,      "HB Blast"
+,      "HB Counter"
+,      "HB Lead Dive"
+,      "HB Power O"
+,      "HB Stretch Alert Bubble"
+,      "HB Toss"
+,      "PA Boot Comeback"
+,      "PA Ctr Waggle"
+,      "PA Flood"
+,      "PA Power O"
+,      "PA Shot Post"
+    ]
+,    "Slot Close": [
+      "94 Will"
+,      "HB Blast"
+,      "HB Lead Dive"
+,      "HB Stretch"
+,      "Jet Sweep"
+,      "PA Jet Sweep"
+,      "PA Shot Post"
+,      "PA Spot"
+,      "PA Sprint HB Flat"
+,      "PA Switch Dig"
+,      "Spacing"
+,      "Zone Fake Jet"
+    ]
+,    "Slot Flex": [
+      "94 Will"
+,      "95 Mike"
+,      "Double Slants"
+,      "HB Dive Alert Smoke"
+,      "PA Dagger"
+,      "PA FB Flat"
+    ]
+,    "Slot Stack": [
+      "94 Will"
+,      "HB Blast"
+,      "HB Iso"
+,      "PA Dagger"
+,      "Spacing"
+,      "Stretch"
+    ]
+,    "Tight": [
+      "26 Duo"
+,      "Goal Line Fade"
+,      "HB Blast"
+,      "HB Counter"
+,      "HB Lead"
+,      "HB Power O"
+,      "HB Stretch"
+,      "PA Boot"
+,      "PA Power O"
+,      "PA Sprint HB Flat"
+,      "PA TE Corner"
+,      "Z Slant"
+    ]
+,    "Wing": [
+      "FB Dive"
+,      "FB Fake HB Toss"
+,      "HB Lead"
+,      "HB Power O"
+,      "HB Stretch"
+,      "HB Zone Toss"
+,      "Mtn Power"
+,      "Mtn Zone"
+,      "PA Boot Flow"
+,      "PA U Slide"
+,      "RPO Stretch Alert X Lookie"
+,      "X Slant"
+    ]
+,    "Y Off": [
+      "95 Mike"
+,      "95 Willie"
+,      "Double Dig"
+,      "HB Stretch"
+,      "Inside Zone"
+,      "PA Cross"
+,      "PA FL Hitch"
+,      "PA X Dig"
+,      "Quick Slants"
+    ]
+,    "Y Off Close": [
+      "Double Dig"
+,      "HB Counter Wk"
+,      "HB Iso"
+,      "HB Stretch"
+,      "HB Zone Toss"
+,      "Mtn Counter Solid"
+,      "Mtn Flood"
+,      "Mtn PA Counter"
+,      "PA Deep Read"
+,      "PA Pylon Sail"
+,      "PA X Deep Out"
+,      "Zone Wk"
+    ]
+  },  "Kickoff": {
+    "Heavy Landing Zone NFL Kickoff": [
+      "Heavy Kickoff Left"
+,      "Heavy Kickoff Middle"
+,      "Heavy Kickoff Right"
+    ]
+,    "Landing Zone NFL Kickoff": [
+      "Kickoff Left"
+,      "Kickoff Middle"
+,      "Kickoff Right"
+    ]
+,    "NFL Kickoff": [
+      "Kickoff  Deep Middle"
+,      "Kickoff  Deep Right"
+,      "Kickoff Deep Left"
+    ]
+,    "NFL Onside Kick": [
+      "Onside Kick"
+    ]
+,    "NFL Onside Kick 2": [
+      "Speed Onside"
+    ]
+,    "NFL Onside Kick 3": [
+      "Strong Onside"
+    ]
+  },  "Near": {
+    "Close Flex": [
+      "Curl Flat"
+,      "FB Dive"
+,      "FB Dive Weak"
+,      "HB Angle"
+,      "HB Inside"
+,      "Mtn Stick"
+,      "Mtn Stick N Nod"
+,      "PA Read Special"
+,      "Post Drag"
+,      "Shallow Cross"
+,      "Smash"
+,      "Spot"
+    ]
+,    "Pro": [
+      "0 1 Trap"
+,      "Double Comeback"
+,      "FB Dive Strong"
+,      "FL Drive"
+,      "Flanker Hook"
+,      "HB Inside"
+,      "PA Strong Flow"
+,      "Quick Outs"
+,      "Slants"
+,      "Spacing"
+,      "Texas"
+,      "Z Spot"
+    ]
+  },  "Pistol": {
+    "Strong": [
+      "494 F Flat"
+,      "F Lead Read Option"
+,      "HB Counter"
+,      "HB Off Tackle"
+,      "HB Power O"
+,      "HB Slip Screen"
+,      "HB Stretch"
+,      "Inside Zone Split"
+,      "PA Boot Lt"
+,      "PA Corner HB Slip"
+,      "PA Flood"
+,      "Slants"
+,      "Tr Opt Switch"
+,      "Tr Option Slip"
+,      "X Post"
+    ]
+,    "Weak Slot": [
+      "Counter Str"
+,      "Dig Wheel"
+,      "HB Dive"
+,      "HB Slam"
+,      "Lead Read Option"
+,      "PA Boot"
+,      "PA Dagger"
+,      "Read Option"
+,      "Roll Out Smash"
+,      "Slants"
+,      "Smash Y-Corner"
+,      "X Dig"
+    ]
+  },  "Safety Kickoff": {
+    "Landing Zone Heavy Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Punt": [
+      "Punt Left"
+,      "Punt Middle"
+,      "Punt Right"
+    ]
+  },  "Shotgun": {
+    "Split Close": [
+      "Close Corner"
+,      "Close HB Wheel"
+,      "Dig HB Rail"
+,      "Dig Slot Out"
+,      "Double Swirl"
+,      "FB Inside"
+,      "HB Option"
+,      "HB Power O"
+,      "HB Slip Screen"
+,      "Mesh"
+,      "Mtn FB Cross Screen"
+,      "Mtn HB Swing"
+,      "Mtn Y-Flood"
+,      "PA F Slide"
+,      "Pitt DBL Ins"
+,      "Read Option"
+,      "Scat"
+,      "Swirl Curls"
+,      "Triple Option Lt"
+,      "WR Corner"
+,      "Z Spot"
+    ]
+,    "Split Pro Offset Wk": [
+      "HB Power O"
+,      "HB Slip Screen"
+,      "PA F Slide"
+,      "Read Option"
+,      "Slot Cross"
+,      "X Dig"
+    ]
+,    "Split Slot Offset": [
+      "FL Drag"
+,      "Flood"
+,      "HB Cross Buck"
+,      "HB Off Tackle"
+,      "HB Slip Screen"
+,      "Inside Zone Lt"
+,      "Mtn FB Cross Screen"
+,      "Mtn RPO Peek Stick"
+,      "Mtn RPO Peek Swing"
+,      "Mtn RPO Swing QB Draw"
+,      "Mtn Spot"
+,      "Mtn Triple Option Rt"
+,      "Mtn Y Cross"
+,      "Mtn Y Cross"
+,      "Mtn Y Stick"
+,      "PA Deep Cross"
+,      "Shakes"
+,      "Triple Option Lt"
+    ]
+,    "Split Slot Open": [
+      "689 Hook"
+,      "Backs Cross"
+,      "Corner Strike"
+,      "Curl Combo"
+,      "DBL Ins"
+,      "Dbl Slant"
+,      "FB Inside"
+,      "Flood"
+,      "HB Draw"
+,      "HB Off Tackle"
+,      "HB Power O"
+,      "HB Slip Screen"
+,      "Horizontal"
+,      "PA F Slide"
+,      "PA Wheel Switch"
+    ]
+,    "Split Twins": [
+      "Corners"
+,      "HB Off Tackle"
+,      "Inside Zone Split"
+,      "PA F Slide"
+,      "Redzone HB Corner"
+,      "Texas"
+    ]
+  },  "Special": {
+    "Field Goal": [
+      "Fake FG H Shovel"
+,      "Fake FG K Flip Pass"
+,      "Fake FG Kicker Flip"
+,      "Fake FG Rollout Pass"
+,      "Field Goal"
+,      "Field Goal 2"
+    ]
+,    "Punt": [
+      "Fake Punt FB Flat"
+,      "Fake Punt Off Tackle"
+,      "Fake Punt Shovel"
+,      "Fake Punt Sweep"
+,      "Punt"
+,      "Punt 2"
+    ]
+,    "Punt Tight": [
+      "Punt"
+    ]
+,    "QB Kneel": [
+      "QB Kneel"
+    ]
+,    "Stop Clock": [
+      "Fake Spike"
+,      "Fake Spike 2"
+,      "Fake Spike 3"
+,      "Spike Ball"
+    ]
+  },  "Split Backs": {
+    "3WR": [
+      "Curls Read Special"
+,      "FB Belly"
+,      "Off Tackle"
+,      "PA Slide"
+,      "Portland X-Option"
+,      "Slants"
+,      "Slot Z Out"
+,      "WR Corners"
+,      "WR Hook Outs"
+    ]
+,    "Pro": [
+      "Backs Cross"
+,      "Curl Flat"
+,      "Double Comeback"
+,      "FB Belly"
+,      "FL Drive"
+,      "HB Off Tackle"
+,      "HB Slip Screen"
+,      "PA Slide"
+,      "Power O"
+,      "Quick Outs"
+,      "Slants"
+,      "Spacing"
+,      "TE Sail F Flat"
+,      "Texas"
+,      "Z Spot"
+    ]
+,    "Slot": [
+      "China Special"
+,      "Curl Flat"
+,      "Dagger"
+,      "Deep Comeback"
+,      "Double Slant"
+,      "FB Belly"
+,      "FB Dive HB Motion"
+,      "HB Inside"
+,      "HB Slip Screen"
+,      "PA Slide"
+,      "Shallow Cross"
+,      "Smash Swing"
+,      "Sprint Out"
+,      "Texas"
+,      "Y Stick Lion"
+    ]
+  },  "Strong I": {
+    "Close": [
+      "Double Post"
+,      "FB Dive"
+,      "HB Off Tackle"
+,      "HB Zone Toss"
+,      "PA Scissors"
+,      "PA Slide"
+    ]
+,    "Close Flex": [
+      "Counter Weak"
+,      "Drive"
+,      "FB Dive"
+,      "HB Slip Screen"
+,      "HB Stretch"
+,      "Mills"
+,      "PA Boot Slide"
+,      "PA Lead Draw Shot"
+,      "PA Sprint HB Flat"
+    ]
+,    "H Close Off": [
+      "HB Blunt Dive"
+,      "HB Stretch"
+,      "PA Slide"
+,      "TE Option"
+,      "WR Go's"
+,      "X-Corner"
+    ]
+,    "H Slot": [
+      "Counter Weak"
+,      "Dagger"
+,      "HB Dive"
+,      "HB Stretch"
+,      "Inside Zone Wk"
+,      "PA Boot Slide"
+,      "PA FB Flat"
+,      "PA Post Shot"
+,      "Power O"
+    ]
+,    "H Tight Close": [
+      "Counter Weak"
+,      "HB Blunt Dive"
+,      "HB Misdirection"
+,      "PA Power O"
+,      "PA Slide"
+,      "Power O"
+,      "Stutter Go's"
+,      "Y Trail"
+,      "Zone Wk"
+    ]
+,    "Jumbo": [
+      "FB Dive"
+,      "HB Dive"
+,      "Inside Zone Wk"
+,      "PA Spot"
+,      "PA Sprint HB Flat"
+,      "Power O"
+    ]
+,    "Slot": [
+      "Counter Weak"
+,      "Double Slant"
+,      "HB Draw"
+,      "HB Power O"
+,      "HB Stretch"
+,      "Inside Zone Wk"
+,      "Mills"
+,      "PA Boot Slide"
+,      "PA Power O"
+    ]
+,    "Slot Flex": [
+      "China Special"
+,      "Counter Weak"
+,      "Curl Flat"
+,      "Dagger"
+,      "Double Slant"
+,      "HB Dive"
+,      "HB Lead Draw"
+,      "HB Slip Screen"
+,      "HB Sweep"
+,      "Inside Zone Split"
+,      "PA Boot Slide"
+,      "PA Post Shot"
+,      "PA Power O"
+,      "Power O"
+,      "Stretch Alert Smoke"
+    ]
+,    "Wing": [
+      "FB Dive"
+,      "HB Counter Wk"
+,      "HB Dive"
+,      "HB Stretch"
+,      "Mtn Power O"
+,      "Mtn Zone Wk"
+,      "PA Mtn Power"
+,      "PA Slide"
+,      "PA Sprint HB Flat"
+    ]
+,    "Y Off Close": [
+      "Counter Weak"
+,      "HB Blast"
+,      "HB Stretch"
+,      "Mtn Counter Solid"
+,      "Mtn Flood"
+,      "Mtn PA Counter"
+,      "PA Boot X Shot"
+,      "PA Scissors"
+,      "TE Option"
+    ]
+,    "Z Close": [
+      "26 Duo Alert X Lookie"
+,      "Counter Weak"
+,      "End Around"
+,      "Fake End Around"
+,      "Flanker Drive"
+,      "HB Dive"
+,      "PA Post Dig"
+,      "PA Power O"
+,      "PA Sail"
+,      "PA Sprint HB Flat"
+,      "PA WR In"
+,      "Slant Spacing"
+    ]
+  },  "Weak I": {
+    "Close": [
+      "94 Will"
+,      "Bench Switch"
+,      "FB Dive"
+,      "HB Zone Wk"
+,      "Mesh"
+,      "PA Boot Lt"
+,      "PA Boot Slide"
+,      "PA Post Shot"
+,      "Stick"
+    ]
+,    "Close Flex": [
+      "94 Will"
+,      "Bench Flat"
+,      "Drive"
+,      "HB Dive"
+,      "HB Zone"
+,      "Mesh"
+,      "PA Boot Slide"
+,      "PA Spot"
+,      "Spacing"
+    ]
+,    "H Wing": [
+      "HB Gut"
+,      "HB Power O"
+,      "PA Boot"
+,      "PA Power O"
+,      "Strong Stretch"
+,      "X Slant"
+    ]
+,    "Pro": [
+      "94 Will"
+,      "Counter F"
+,      "Curl Combo"
+,      "Frogs Skinny Posts"
+,      "HB Gut"
+,      "PA Boot"
+,      "PA Boot Lt"
+,      "PA F Slide"
+,      "Quick Slants"
+    ]
+,    "Slot": [
+      "Bubble Screen"
+,      "Dagger"
+,      "HB Blast"
+,      "HB Option"
+,      "HB Slip Screen"
+,      "PA Boot Slide"
+,      "PA Deep Threats"
+,      "PA Flood"
+,      "PA Slot In"
+,      "Read FB Flat"
+,      "Slants"
+,      "Texans HB Lead"
+    ]
+,    "Slot Close": [
+      "94 Will"
+,      "HB Dive"
+,      "Inside Zone Split"
+,      "Mesh"
+,      "PA Boot Slide"
+,      "PA Flood"
+    ]
+,    "Z Close": [
+      "Counter F"
+,      "FB Power"
+,      "HB Gut"
+,      "PA Cntr Shot Post"
+,      "Slant Spacing"
+,      "Z Curl"
+    ]
+  }}

@@ -1,0 +1,115 @@
+{
+  "I Form": {
+    "Close": [
+      "HB Toss"
+,      "PA TE Leak"
+,      "Power O"
+    ]
+  },  "Kickoff": {
+    "Heavy Landing Zone NFL Kickoff": [
+      "Heavy Kickoff Left"
+,      "Heavy Kickoff Middle"
+,      "Heavy Kickoff Right"
+    ]
+,    "Landing Zone NFL Kickoff": [
+      "Kickoff Left"
+,      "Kickoff Middle"
+,      "Kickoff Right"
+    ]
+,    "NFL Kickoff": [
+      "Kickoff  Deep Middle"
+,      "Kickoff  Deep Right"
+,      "Kickoff Deep Left"
+    ]
+,    "NFL Onside Kick": [
+      "Onside Kick"
+    ]
+,    "NFL Onside Kick 2": [
+      "Speed Onside"
+    ]
+,    "NFL Onside Kick 3": [
+      "Strong Onside"
+    ]
+  },  "Safety Kickoff": {
+    "Landing Zone Heavy Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Punt": [
+      "Punt Left"
+,      "Punt Middle"
+,      "Punt Right"
+    ]
+  },  "Shotgun": {
+    "Empty Base Flex": [
+      "Middle Hi Lo"
+,      "Strong Curl"
+,      "WR Screen"
+    ]
+,    "Spread Dbl Flex": [
+      "Deep Curl"
+,      "Four Verticals"
+,      "HB Quick Base"
+    ]
+,    "Trey Y-Flex Str": [
+      "0 1 Trap"
+,      "Jet Chip Wasp"
+,      "PA Verts"
+    ]
+,    "Trio Offset Wk": [
+      "Fake Screen Wheel"
+,      "Middle Slant"
+,      "RPO Read Bubble"
+    ]
+  },  "Singleback": {
+    "Deuce Close": [
+      "Counter Y"
+,      "HB Stretch"
+,      "HB Wham"
+    ]
+,    "Wing Slot": [
+      "HB Misdirection"
+,      "PA Y-Drag Wheel"
+,      "X Return"
+    ]
+,    "Wing Tight": [
+      "HB Ace Power"
+,      "HB Stretch"
+,      "Mesh Spot"
+    ]
+  },  "Special": {
+    "Field Goal": [
+      "Fake FG K Direct Snap"
+,      "Fake FG K Toss Pass"
+,      "Fake FG Kicker Flip"
+,      "Fake FG Rollout Pass"
+,      "Field Goal"
+,      "Field Goal 2"
+    ]
+,    "Punt": [
+      "Fake Punt Off Tackle"
+,      "Fake Punt Sweep"
+,      "Fake Punt W Release"
+,      "Fake Punt X Curl"
+,      "Punt"
+,      "Punt 2"
+    ]
+,    "Punt Tight": [
+      "Punt"
+    ]
+,    "QB Kneel": [
+      "QB Kneel"
+    ]
+,    "Stop Clock": [
+      "Fake Spike"
+,      "Fake Spike 2"
+,      "Fake Spike 3"
+,      "Spike Ball"
+    ]
+  }}

@@ -1,0 +1,41 @@
+{
+  "Shotgun": {
+    "Empty Triple Stack": [
+      "QB Power RPO"
+,      "QB Zone Lt"
+,      "Verticals"
+    ]
+,    "Gadget Backfield": [
+      "Dragon Spacing"
+,      "F Choice Spot"
+,      "HB Off Tackle"
+,      "HB Quick Base"
+,      "HB Slip Screen"
+,      "Inside Zone"
+    ]
+,    "Gadget Package": [
+      "Mesh Spot"
+,      "Outside Zone"
+,      "Read Option"
+,      "WR Wheel"
+,      "Y-Off Power O"
+,      "Y-Off Power Read"
+    ]
+,    "Split WR Backfield": [
+      "Dig WR Option"
+,      "Inside Zone"
+,      "Option Y Out"
+,      "Redzone Corner"
+,      "Snag Z Spot"
+,      "Verts WR Seam"
+    ]
+  },  "Wildcat": {
+    "Trips Over": [
+      "Blast Rt"
+,      "Counter"
+,      "Jet Sweep"
+,      "PA Jet Cross"
+,      "PA Jet Sweep"
+,      "Power"
+    ]
+  }}

@@ -1,0 +1,44 @@
+{
+  "I Form": {
+    "Pro": [
+      "HB Draw"
+,      "PA Double Post"
+,      "PA Lead Draw Shot"
+    ]
+,    "Slot": [
+      "HB Power O"
+,      "PA Post Shot"
+,      "PA Shot Post"
+    ]
+  },  "Shotgun": {
+    "Tight Slots": [
+      "Corner N Go's"
+,      "Inside Zone"
+,      "PA Seam"
+,      "PA Shot Portland"
+,      "PA Shot Post"
+,      "PA X Clown"
+    ]
+,    "Trey Offset": [
+      "Dagger"
+,      "Fade Smash"
+,      "Inside Zone"
+,      "PA Cross Switch"
+,      "PA Post Shot"
+,      "Shot Slot Post"
+    ]
+  },  "Singleback": {
+    "Ace": [
+      "Ace WR Stretch"
+,      "HB Blunt Dive"
+,      "HB Slam Mtn"
+,      "PA All Go"
+,      "PA Post Cross Shot"
+,      "PA X Burst Cross"
+    ]
+,    "Ace Slot": [
+      "HB Stretch"
+,      "PA FL Stretch"
+,      "PA Verts"
+    ]
+  }}

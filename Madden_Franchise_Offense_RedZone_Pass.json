@@ -1,0 +1,44 @@
+{
+  "Shotgun": {
+    "Bunch Str Nasty": [
+      "Corndog"
+,      "Corndog Toss"
+,      "Corndog Trail"
+,      "Inside Zone"
+,      "Mesh Flat Spot"
+,      "Y Flat Quick"
+,      "Y Trail"
+,      "Z Mesh Quick"
+,      "Z Spot Quick"
+    ]
+,    "Bunch X Nasty": [
+      "Empty Spot Wheel"
+,      "Empty Stick Spacing Switch"
+,      "Inside Zone"
+,      "Mtn Mesh HB Sneak"
+,      "Mtn Slot Middle"
+,      "Quick Empty Flats Stick"
+,      "Return Spot"
+,      "Return Whip Switch"
+,      "Return Whip Trail Corner"
+    ]
+,    "Y Off Trips Wk": [
+      "Inside Zone"
+,      "Quick Fork Zig"
+,      "Quick Short Post"
+,      "Quick Unders"
+,      "Slants"
+,      "Stick"
+    ]
+  },  "Singleback": {
+    "Ace": [
+      "HB Stretch"
+,      "PA Boot Left"
+,      "PA Sprint HB Flat"
+    ]
+,    "Bunch": [
+      "Y Flat Goalline"
+,      "Z Mesh Goalline"
+,      "Z Spot Goalline"
+    ]
+  }}

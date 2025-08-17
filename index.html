@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Madden 26 Gallery</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body { background-color: #121212; color: #fff; padding: 2rem; }
+    .card { cursor: pointer; background-color: #1e1e1e; color: #fff; transition: transform 0.2s; height: 100%; }
+    .card:hover { transform: scale(1.05); box-shadow: 0 0 20px rgba(255,255,255,0.3); }
+    .card img { border-radius: 0.25rem; max-width: 100%; height: auto; display: block; object-fit: contain; }
+    h1, h2 { margin-top: 1rem; margin-bottom: 1rem; text-align: center; }
+    .back-btn { margin-bottom: 1rem; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 class="text-center">Madden 26 Plays</h1>
+    <h2 id="pageTitle"></h2>
+    <button id="backBtn" class="btn btn-secondary back-btn" style="display:none;">← Back</button>
+    <div id="gallery" class="row row-cols-1 row-cols-md-3 g-3"></div>
+  </div>
+
+  <script>
+    const gallery = document.getElementById('gallery');
+    const backBtn = document.getElementById('backBtn');
+    const pageTitle = document.getElementById('pageTitle');
+    let historyStack = [];
+    let allData = {};
+    let teamData = {};
+
+    function toFileName(name) {
+      return name.replace(/ /g, "_");
+    }
+
+    function displayName(name) {
+      return name.replace(/_/g, " ");
+    }
+
+    async function loadHub() {
+      gallery.innerHTML = '';
+      setTitle('');
+      backBtn.style.display = 'none';
+      historyStack = [];
+
+      const options = [
+        { name: 'All Plays', action: showAllPlays },
+        { name: 'Playbooks', action: showTeams }
+      ];
+
+      for (const opt of options) {
+        const col = document.createElement('div');
+        col.className = "col";
+        const card = document.createElement('div');
+        card.className = "card p-3 text-center";
+        card.textContent = opt.name;
+        card.onclick = opt.action;
+        col.appendChild(card);
+        gallery.appendChild(col);
+      }
+    }
+
+    async function showAllPlays() {
+      if (!allData || Object.keys(allData).length === 0) {
+        const res = await fetch('formations.json');
+        allData = await res.json();
+      }
+      historyStack.push(loadHub);
+      showFormations(allData, 'All Plays');
+    }
+
+    async function showTeams() {
+      gallery.innerHTML = '';
+      setTitle('Playbooks');
+      backBtn.style.display = 'inline-block';
+      historyStack.push(loadHub);
+
+      const res = await fetch('playbooks.json');
+      const teamList = await res.json();
+
+      for (const teamName of teamList) {
+        const col = document.createElement('div');
+        col.className = "col";
+        const card = document.createElement('div');
+        card.className = "card p-3 text-center";
+        card.textContent = displayName(teamName); // display with spaces
+        card.onclick = async () => {
+          if (!teamData[teamName]) {
+            const res = await fetch(`${toFileName(teamName)}.json`);
+            teamData[teamName] = await res.json();
+          }
+          historyStack.push(showTeams);
+          showFormations(teamData[teamName], teamName);
+        };
+        col.appendChild(card);
+        gallery.appendChild(col);
+      }
+    }
+
+    function showFormations(dataObj, title) {
+      gallery.innerHTML = '';
+      setTitle(displayName(title));
+      backBtn.style.display = 'inline-block';
+
+      for (const formationRaw in dataObj) {
+        const col = document.createElement('div');
+        col.className = "col";
+        const card = document.createElement('div');
+        card.className = "card p-3 text-center";
+        card.textContent = displayName(formationRaw);
+        card.onclick = () => showSets(dataObj, formationRaw, title);
+        col.appendChild(card);
+        gallery.appendChild(col);
+      }
+    }
+
+    function showSets(dataObj, formationRaw, titlePrefix) {
+      gallery.innerHTML = '';
+      setTitle(`${displayName(titlePrefix)} - ${displayName(formationRaw)}`);
+      backBtn.style.display = 'inline-block';
+      historyStack.push(() => showFormations(dataObj, titlePrefix));
+
+      for (const setRaw in dataObj[formationRaw]) {
+        const col = document.createElement('div');
+        col.className = "col";
+        const card = document.createElement('div');
+        card.className = "card p-2 text-center";
+        card.onclick = () => showPlays(dataObj, formationRaw, setRaw, titlePrefix);
+
+        const img = document.createElement('img');
+        img.src = `${toFileName(formationRaw)}/${toFileName(setRaw)}/${toFileName(setRaw)}.png`;
+        img.alt = displayName(setRaw);
+        img.className = "img-fluid";
+
+        const caption = document.createElement('div');
+        caption.textContent = displayName(setRaw);
+        caption.style.marginTop = '0.5rem';
+        caption.style.fontSize = '0.9rem';
+
+        card.appendChild(img);
+        card.appendChild(caption);
+        col.appendChild(card);
+        gallery.appendChild(col);
+      }
+    }
+
+    function showPlays(dataObj, formationRaw, setRaw, titlePrefix) {
+      gallery.innerHTML = '';
+      setTitle(`${displayName(titlePrefix)} - ${displayName(formationRaw)} - ${displayName(setRaw)}`);
+      backBtn.style.display = 'inline-block';
+      historyStack.push(() => showSets(dataObj, formationRaw, titlePrefix));
+
+      for (const playFile of dataObj[formationRaw][setRaw]) {
+        const col = document.createElement('div');
+        col.className = "col";
+        const card = document.createElement('div');
+        card.className = "card p-2 text-center";
+
+        const img = document.createElement('img');
+        img.src = `${toFileName(formationRaw)}/${toFileName(setRaw)}/${toFileName(playFile)}.png`;
+        img.alt = displayName(playFile);
+        img.className = "img-fluid";
+
+        const caption = document.createElement('div');
+        caption.textContent = displayName(playFile);
+        caption.style.marginTop = '0.5rem';
+        caption.style.fontSize = '0.9rem';
+
+        card.appendChild(img);
+        card.appendChild(caption);
+        col.appendChild(card);
+        gallery.appendChild(col);
+      }
+    }
+
+    function setTitle(title) {
+      pageTitle.textContent = title;
+    }
+
+    backBtn.onclick = () => {
+      if (historyStack.length > 0) {
+        const prev = historyStack.pop();
+        prev();
+      }
+    }
+
+    loadHub();
+  </script>
+</body>
+</html>

@@ -1,0 +1,145 @@
+{
+  "I Form": {
+    "Close": [
+      "HB Stretch"
+    ]
+,    "H Pro": [
+      "HB Slam"
+    ]
+,    "Pro": [
+      "Mth HB Zone"
+    ]
+  },  "Kickoff": {
+    "Heavy Landing Zone NFL Kickoff": [
+      "Heavy Kickoff Left"
+,      "Heavy Kickoff Middle"
+,      "Heavy Kickoff Right"
+    ]
+,    "Landing Zone NFL Kickoff": [
+      "Kickoff Left"
+,      "Kickoff Middle"
+,      "Kickoff Right"
+    ]
+,    "NFL Kickoff": [
+      "Kickoff  Deep Middle"
+,      "Kickoff  Deep Right"
+,      "Kickoff Deep Left"
+    ]
+,    "NFL Onside Kick": [
+      "Onside Kick"
+    ]
+,    "NFL Onside Kick 2": [
+      "Speed Onside"
+    ]
+,    "NFL Onside Kick 3": [
+      "Strong Onside"
+    ]
+  },  "Pistol": {
+    "Full House Base": [
+      "Counter Lead"
+,      "HB Double Iso"
+,      "HB Slam"
+,      "Read Option"
+,      "Read Option"
+,      "Wing Power O"
+    ]
+,    "Strong": [
+      "Inside Zone Split"
+    ]
+  },  "Safety Kickoff": {
+    "Landing Zone Heavy Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Punt": [
+      "Punt Left"
+,      "Punt Middle"
+,      "Punt Right"
+    ]
+  },  "Shotgun": {
+    "5WR Trio": [
+      "Jet Sweep"
+    ]
+,    "Bunch": [
+      "HB Base"
+    ]
+,    "Bunch HB Str": [
+      "HB Counter"
+,      "Inside Zone"
+,      "Read Option"
+    ]
+,    "Bunch Offset": [
+      "Outside Zone"
+    ]
+,    "Doubles HB Wk": [
+      "HB Delay"
+    ]
+,    "Doubles Y Off": [
+      "Inside Zone"
+    ]
+,    "Tight Slots": [
+      "HB Draw"
+,      "Zone Fake Jet"
+    ]
+  },  "Singleback": {
+    "Ace": [
+      "23 Zone Open"
+,      "24 Zone Open"
+,      "HB Blunt Dive"
+,      "HB Misdirection"
+    ]
+,    "Bunch Ace": [
+      "End Around Lead"
+    ]
+,    "Doubles South": [
+      "HB Zone Wk"
+    ]
+  },  "Special": {
+    "Field Goal": [
+      "Fake FG K Direct Snap"
+,      "Fake FG K Toss Pass"
+,      "Fake FG Kicker Flip"
+,      "Fake FG Rollout Pass"
+,      "Field Goal"
+,      "Field Goal 2"
+    ]
+,    "Punt": [
+      "Fake Punt Off Tackle"
+,      "Fake Punt Sweep"
+,      "Fake Punt W Release"
+,      "Fake Punt X Curl"
+,      "Punt"
+,      "Punt 2"
+    ]
+,    "Punt Tight": [
+      "Punt"
+    ]
+,    "QB Kneel": [
+      "QB Kneel"
+    ]
+,    "Stop Clock": [
+      "Fake Spike"
+,      "Fake Spike 2"
+,      "Fake Spike 3"
+,      "Spike Ball"
+    ]
+  },  "Strong I": {
+    "Close": [
+      "End Around"
+,      "Quick Toss"
+    ]
+  },  "Weak I": {
+    "Pro": [
+      "94 Will"
+    ]
+  },  "Wildcat": {
+    "Slot Flex": [
+      "Power"
+    ]
+  }}

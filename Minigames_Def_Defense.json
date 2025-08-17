@@ -1,0 +1,128 @@
+{
+  "500": {
+    "500 Def": [
+      "500 Prevent"
+    ]
+  },  "MG Backfield Survival": {
+    "Backfield Survival": [
+      "Backfield  Survival"
+,      "Backfield  Survival Quick Release"
+    ]
+  },  "MG Combine": {
+    "Oklahoma": [
+      "Combine Def Zone"
+    ]
+  },  "MG DB Battle": {
+    "MG DB Battle": [
+      "MG PS Man Press"
+,      "MG PS Off Man"
+    ]
+  },  "MG Oklahoma": {
+    "Oklahoma": [
+      "OK Def"
+,      "OK Def Left"
+,      "OK Def Right"
+    ]
+  },  "MG Option Attack": {
+    "Option Attack 2-2": [
+      "OA 2-2"
+    ]
+  },  "MG Pass Defense": {
+    "MG 3-4 Odd": [
+      "MG Cover 2 Sink"
+,      "MG PS Cover 3 Sky Wk"
+,      "MG PS Tampa 2"
+    ]
+,    "MG Skeleton": [
+      "MG PS Off Man"
+    ]
+  },  "MG Pitch Party": {
+    "MG Pillar Defense": [
+      "MG  Pillar  Defense"
+    ]
+  },  "MG Rushing Attack": {
+    "Chase_And_Tackle_1-1": [
+      "CT 1-1"
+    ]
+,    "Rushing Attack 1-1": [
+      "RA 1-1"
+    ]
+,    "Rushing Attack 2-1": [
+      "RA 2-1"
+    ]
+,    "Rushing Attack 2-2": [
+      "RA 2-2"
+    ]
+  },  "MG Trench Battle": {
+    "MG Trench Battle": [
+      "Trench Battle"
+    ]
+,    "MG Trench Battle Left": [
+      "Trench Battle Left"
+    ]
+,    "MG Trench Battle Right": [
+      "Trench Battle Right"
+    ]
+  },  "MG_Screen": {
+    "4-3 Over": [
+      "NST Tampa 2"
+    ]
+  },  "NST Tutorials Defense": {
+    "4-3 Over": [
+      "NST Cover 2 Man"
+,      "NST Cover 3 Sky"
+,      "NST Cover 4 Quarters"
+,      "NST Tampa 2"
+    ]
+,    "NST 3 Defenders": [
+      "Oklahoma D"
+    ]
+,    "NST Dime 3-2-6": [
+      "NST 3-2-6 Tampa 2"
+    ]
+,    "NST Field Goal Block Left": [
+      "NST Base Block Left"
+    ]
+,    "NST Landing Zone NFL Kick Return": [
+      "NST Return Middle"
+    ]
+,    "NST Nickel Skeleton": [
+      "NST Man Off"
+,      "NST Man Press"
+    ]
+,    "NST Onside Base": [
+      "NST Base Onside"
+    ]
+,    "NST Punt Return 33 Even": [
+      "NST Return Middle"
+    ]
+  },  "Scramble Survive": {
+    "SS - Even 6-1": [
+      "SS - Sam Will Blitz"
+    ]
+  },  "WR After Catch Master": {
+    "ACM Rep 2 Intense": [
+      "ACM Rep 2 Intense"
+    ]
+,    "ACM Rep 3 Intense": [
+      "ACM Rep 3 Intense"
+    ]
+,    "ACM Rep 5": [
+      "ACM Rep 5"
+    ]
+,    "ACM Rep 6": [
+      "ACM Rep 6"
+    ]
+,    "ACM Rep 7": [
+      "ACM Rep 7"
+    ]
+,    "ACM Rep 8": [
+      "ACM Rep 8"
+    ]
+,    "ACM_Rep_3": [
+      "ACM - Rep 3"
+    ]
+,    "ACM_Rep_4": [
+      "ACM - Rep 4"
+    ]
+  }}

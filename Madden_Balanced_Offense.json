@@ -1,0 +1,512 @@
+{
+  "Full House": {
+    "Normal Wide": [
+      "Counter Lead"
+,      "Curls"
+,      "DBL Stop N Go's"
+,      "HB Draw"
+,      "HB Slam"
+,      "HB Smash"
+,      "HB Sweep"
+,      "PA Middle"
+,      "WR DBL Shake"
+    ]
+  },  "Goal Line Offense": {
+    "Normal": [
+      "FB Dive"
+,      "HB Dive"
+,      "HB Sting"
+,      "PA Power O"
+,      "PA Spot"
+,      "PA Waggle"
+,      "Power O"
+,      "QB Sneak"
+,      "Strong Toss"
+    ]
+  },  "Hail Mary": {
+    "Spread": [
+      "Goal Post"
+    ]
+,    "Trio": [
+      "Hail Mary"
+,      "Shot Save Clock"
+    ]
+  },  "I Form": {
+    "Pro": [
+      "Curls"
+,      "FB Dive Strong"
+,      "FB Fake HB Flip"
+,      "HB Iso"
+,      "HB Misdirection"
+,      "HB Stretch Alert X Smoke"
+,      "Inside Zone"
+,      "Mesh"
+,      "Mid Attack"
+,      "Mtn Slip Screen"
+,      "PA Comeback Slide"
+,      "PA FB Screen"
+,      "PA FL Hitch"
+,      "PA Misdirection Shot"
+,      "PA Scissors"
+,      "PA WR In"
+,      "Quick Slants"
+,      "Z Spot"
+    ]
+,    "Tight": [
+      "FB Dive"
+,      "FB Fake HB Toss"
+,      "Goal Line Fade"
+,      "HB Blast"
+,      "HB Iso"
+,      "HB Off Tackle"
+,      "HB Power O"
+,      "Mesh"
+,      "PA FB Flat"
+,      "PA Power O"
+,      "Z Slant"
+,      "Z Spot"
+    ]
+  },  "Kickoff": {
+    "Heavy Landing Zone NFL Kickoff": [
+      "Heavy Kickoff Left"
+,      "Heavy Kickoff Middle"
+,      "Heavy Kickoff Right"
+    ]
+,    "Landing Zone NFL Kickoff": [
+      "Kickoff Left"
+,      "Kickoff Middle"
+,      "Kickoff Right"
+    ]
+,    "NFL Kickoff": [
+      "Kickoff  Deep Middle"
+,      "Kickoff  Deep Right"
+,      "Kickoff Deep Left"
+    ]
+,    "NFL Onside Kick": [
+      "Onside Kick"
+    ]
+,    "NFL Onside Kick 2": [
+      "Speed Onside"
+    ]
+,    "NFL Onside Kick 3": [
+      "Strong Onside"
+    ]
+  },  "Pistol": {
+    "Bunch": [
+      "Corner Strike"
+,      "Flanker Drive"
+,      "HB Counter"
+,      "HB Dive"
+,      "HB Slip Screen"
+,      "PA Pin Deep"
+,      "Seattle"
+,      "Spacing"
+,      "TE Angle"
+    ]
+,    "Wing Flex": [
+      "Counter U"
+,      "Dagger"
+,      "Deep Flood"
+,      "HB Draw"
+,      "HB Slam"
+,      "HB Slip Screen"
+,      "Mtn HB Power O"
+,      "PA Post Shot"
+,      "PA Power O"
+,      "RPO Alert Strong Power"
+,      "Smash Spot"
+,      "Y Stick"
+    ]
+  },  "Safety Kickoff": {
+    "Landing Zone Heavy Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Punt": [
+      "Punt Left"
+,      "Punt Middle"
+,      "Punt Right"
+    ]
+  },  "Shotgun": {
+    "Ace": [
+      "Corner Strike"
+,      "Curl Flats"
+,      "Flanker Curl"
+,      "HB Quick Base"
+,      "Inside Zone"
+,      "PA Inverted Veer"
+,      "PA Read"
+,      "Power Read"
+,      "Quick Slants"
+,      "Read Option"
+,      "RPO Peek Slant"
+,      "TE Under"
+    ]
+,    "Ace Slot": [
+      "Flood"
+,      "HB Quick Base"
+,      "HB Slip Screen"
+,      "Inside Zone"
+,      "PA Read"
+,      "Posts"
+,      "QB Power"
+,      "Read Option"
+,      "RPO Alert Bubble"
+,      "Smash"
+,      "Stick"
+,      "X Spot"
+    ]
+,    "Empty Trey": [
+      "Corner Strike"
+,      "Curls Y-Shake"
+,      "DBL Ins"
+,      "Dbl Slot Cross"
+,      "Go's Y Shake"
+,      "Quick Slants"
+,      "Slot Drive"
+,      "Smash Z-Under"
+,      "Stick"
+,      "Strong Flood"
+,      "TE Slot Cross"
+,      "WR Screen"
+    ]
+,    "Normal Flex Wing": [
+      "Curl Flats"
+,      "Drive"
+,      "HB Dive"
+,      "HB Power"
+,      "HB Slip Screen"
+,      "PA Dig"
+,      "PA Pack Seams"
+,      "PA Under"
+,      "Slants"
+,      "Slot Cross"
+,      "Slot Out"
+,      "Z Dig"
+    ]
+,    "Split Slot Open": [
+      "46 Y Cross"
+,      "689 Hook"
+,      "Backs Cross"
+,      "Corner Strike"
+,      "Curl Combo"
+,      "DBL Ins"
+,      "Dbl Slant"
+,      "FB Inside"
+,      "Flood"
+,      "HB Draw"
+,      "HB Off Tackle"
+,      "HB Power O"
+,      "HB Slip Screen"
+,      "Horizontal"
+,      "PA F Slide"
+,      "PA Wheel Switch"
+,      "WR Screen"
+,      "Y Cross"
+    ]
+,    "Spread": [
+      "Curl Flats"
+,      "Deep Attack"
+,      "FL Cross"
+,      "Flanker Dig"
+,      "HB Draw"
+,      "HB Option"
+,      "HB Slip Screen"
+,      "PA Comebacks"
+,      "Post Flags"
+,      "RPO Peek Slant"
+,      "Slants Middle"
+,      "Slot Outs"
+,      "Smash Corners"
+,      "X Follow"
+,      "Z Shallow Cross"
+    ]
+,    "Tight Slots": [
+      "Bench"
+,      "Bench Swap"
+,      "Bench Switch"
+,      "Curl Outs"
+,      "HB Draw"
+,      "HB Sweep"
+,      "Mesh"
+,      "Mesh Switch"
+,      "PA X Clown"
+,      "Stick"
+,      "Stick Switch"
+,      "WR Corners"
+    ]
+,    "Trey Y-Flex Str": [
+      "0 1 Trap"
+,      "HB Draw"
+,      "Inside Zone"
+,      "Mtn Fade Smash"
+,      "Mtn Stick"
+,      "Mtn Verticals"
+,      "PA Crossers"
+,      "RPO Peek Slant"
+,      "RPO Read FL Screen"
+    ]
+,    "Y Trips Wk": [
+      "Comebacks"
+,      "Curls"
+,      "Four Verticals"
+,      "HB Mid Draw"
+,      "HB Slip Screen"
+,      "Outside Zone"
+,      "PA WR In"
+,      "PA Y-Out"
+,      "RPO Base Alert Lookie"
+,      "Slants"
+,      "Slot Drive"
+,      "Sluggo Seam"
+,      "Stick"
+,      "Stick N Nod"
+,      "Y Trail"
+    ]
+  },  "Singleback": {
+    "Ace": [
+      "Ace TE Drag"
+,      "Curl Flats"
+,      "Flanker Drive"
+,      "HB Counter"
+,      "HB Dive"
+,      "HB Stretch Alert X Smoke"
+,      "PA Ctr Waggle"
+,      "PA Deep In"
+,      "PA Stretch"
+,      "Quick Slants"
+,      "Y Shallow Cross"
+,      "Z Spot"
+    ]
+,    "Ace Overload": [
+      "0 1 Trap"
+,      "HB Belly Weak"
+,      "HB Misdirection"
+,      "HB Smash"
+,      "HB Stretch"
+,      "PA Belly Shot"
+,      "PA LT Sneak"
+,      "PA Misdirection"
+,      "PA TE Seam"
+    ]
+,    "Bunch": [
+      "Clearout SE Opt"
+,      "End Around Lead"
+,      "HB Ace Power"
+,      "HB Dive"
+,      "HB Draw"
+,      "HB Slash Fk End Arnd"
+,      "PA Draw Pass"
+,      "PA End Around Sift"
+,      "PA Pin Deep"
+,      "Seattle"
+,      "Spacing"
+,      "Spot Dig"
+,      "Stick"
+,      "TE Angle"
+,      "Y Trail"
+    ]
+,    "Doubles": [
+      "Corner Strike"
+,      "Curl Flats"
+,      "Dagger"
+,      "Deep Attack"
+,      "Flanker Drive"
+,      "Four Verticals"
+,      "Goalline Fade"
+,      "HB Cutback"
+,      "HB Dive"
+,      "HB Draw"
+,      "HB Power O Alert Bubble"
+,      "Inside Cross"
+,      "Mtn Z Spot"
+,      "PA Ctr Waggle"
+,      "PA HB Look"
+,      "PA Power O"
+,      "Slants"
+,      "TE Post"
+,      "Whip Unders"
+,      "Y Shallow Cross"
+,      "Z Under"
+    ]
+,    "Tight Flex": [
+      "Bench"
+,      "HB Dive"
+,      "HB Draw"
+,      "HB Slam"
+,      "HB Slip Screen"
+,      "Mesh"
+,      "Off Tackle"
+,      "Out N Ups"
+,      "PA Draw Cross"
+,      "PA Waggle"
+,      "Shallow Cross"
+,      "Slot Corner"
+    ]
+,    "Trips": [
+      "Bubble Screen"
+,      "Corner Double In"
+,      "Curl Combo"
+,      "HB Dive"
+,      "HB Draw"
+,      "HB Power O"
+,      "HB Zone Wk"
+,      "PA Boot"
+,      "PA Solid Corner"
+,      "PA Y Glance"
+,      "Stick"
+,      "WR Option"
+    ]
+,    "Wing Slot": [
+      "Four Verticals"
+,      "HB Power O"
+,      "HB Slam"
+,      "Mesh Spot"
+,      "Off Tackle"
+,      "PA Boot Slide"
+,      "PA Dagger"
+,      "PA Power O"
+,      "Quick Slant"
+,      "U Drive"
+,      "X Curl"
+,      "Y Stick"
+    ]
+,    "Wing Tight": [
+      "HB Ace Power"
+,      "HB Counter Wk"
+,      "HB Dive"
+,      "HB Power"
+,      "Inside Cross"
+,      "Mesh Spot"
+,      "PA Ctr Waggle"
+,      "PA Power O"
+,      "PA TE Cross"
+,      "PA Y Sail"
+,      "Power Alert X Lookie"
+,      "Quick Slant"
+    ]
+,    "Wing Tight Z": [
+      "Curl Flat"
+,      "Dagger"
+,      "H Misdirection Wk"
+,      "H Power Toss"
+,      "H Zone Str"
+,      "HB Counter Wk"
+,      "HB Dive"
+,      "HB Power O"
+,      "PA Middle"
+,      "PA Misdirection"
+,      "PA Power O"
+,      "PA Y Corner"
+    ]
+,    "Y Trips TE Slot": [
+      "Curl Combo"
+,      "Four Verticals"
+,      "HB Counter"
+,      "HB Dive"
+,      "HB Draw"
+,      "HB Stretch"
+,      "HB Zone Wk"
+,      "Levels Switch"
+,      "PA Slot Cross"
+,      "PA Slot Wheel"
+,      "Power O"
+,      "Slot 2 Buc"
+,      "Slot Drive"
+,      "Sluggo Seam"
+,      "Smash"
+,      "Stick"
+,      "WR Screen"
+,      "Y-Trail"
+    ]
+  },  "Special": {
+    "Field Goal": [
+      "Fake FG H Shovel"
+,      "Fake FG K Flip Pass"
+,      "Fake FG Kicker Flip"
+,      "Fake FG Rollout Pass"
+,      "Field Goal"
+,      "Field Goal 2"
+    ]
+,    "Punt": [
+      "Fake Punt FB Flat"
+,      "Fake Punt Off Tackle"
+,      "Fake Punt Shovel"
+,      "Fake Punt Sweep"
+,      "Punt"
+,      "Punt 2"
+    ]
+,    "Punt Tight": [
+      "Punt"
+    ]
+,    "QB Kneel": [
+      "QB Kneel"
+    ]
+,    "Stop Clock": [
+      "Fake Spike"
+,      "Fake Spike 2"
+,      "Fake Spike 3"
+,      "Spike Ball"
+    ]
+  },  "Strong I": {
+    "Pro": [
+      "494 F Flat"
+,      "FB Middle"
+,      "Go's"
+,      "HB Blast Alert X Smoke"
+,      "HB Dive"
+,      "PA Power O"
+,      "PA Scissors"
+,      "PA WR In"
+,      "Power O Alert X Smoke"
+,      "Slants"
+,      "Spacing"
+,      "Z Close Ctr WK"
+,      "Z Close F-Flat"
+,      "Z Close F-Trail"
+,      "Z Spot"
+    ]
+,    "Slot Flex": [
+      "China Special"
+,      "Counter Weak"
+,      "Curl Flat"
+,      "Dagger"
+,      "Double Slant"
+,      "HB Dive"
+,      "HB Lead Draw"
+,      "HB Slip Screen"
+,      "HB Sweep"
+,      "Inside Zone Split"
+,      "PA Boot Slide"
+,      "PA Post Shot"
+,      "PA Power O"
+,      "Power O"
+,      "Stretch Alert Smoke"
+    ]
+  },  "Weak I": {
+    "H U Off": [
+      "94 Will"
+,      "95 Willie"
+,      "Counter F"
+,      "HB Gut"
+,      "PA Waggle"
+,      "TE Drag"
+    ]
+,    "Slot Flex": [
+      "Counter F"
+,      "HB Gut"
+,      "HB Slip Screen"
+,      "HB Stretch"
+,      "PA Flood"
+,      "PA Power O"
+,      "Power O"
+,      "Slants"
+,      "TE Corner"
+    ]
+  }}

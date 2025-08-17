@@ -1,0 +1,540 @@
+{
+  "Goal Line Offense": {
+    "Normal": [
+      "FB Dive"
+,      "HB Dive"
+,      "HB Sting"
+,      "PA Power O"
+,      "PA Spot"
+,      "PA Waggle"
+,      "Power O"
+,      "QB Sneak"
+,      "Strong Toss"
+    ]
+  },  "Hail Mary": {
+    "Spread": [
+      "Goal Post"
+    ]
+,    "Trio": [
+      "Hail Mary"
+,      "Shot Save Clock"
+    ]
+  },  "Kickoff": {
+    "Heavy Landing Zone NFL Kickoff": [
+      "Heavy Kickoff Left"
+,      "Heavy Kickoff Middle"
+,      "Heavy Kickoff Right"
+    ]
+,    "Landing Zone NFL Kickoff": [
+      "Kickoff Left"
+,      "Kickoff Middle"
+,      "Kickoff Right"
+    ]
+,    "NFL Kickoff": [
+      "Kickoff  Deep Middle"
+,      "Kickoff  Deep Right"
+,      "Kickoff Deep Left"
+    ]
+,    "NFL Onside Kick": [
+      "Onside Kick"
+    ]
+,    "NFL Onside Kick 2": [
+      "Speed Onside"
+    ]
+,    "NFL Onside Kick 3": [
+      "Strong Onside"
+    ]
+  },  "Safety Kickoff": {
+    "Landing Zone Heavy Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Punt": [
+      "Punt Left"
+,      "Punt Middle"
+,      "Punt Right"
+    ]
+  },  "Shotgun": {
+    "5WR Tight": [
+      "Clear Deep"
+,      "Cluster Bunch"
+,      "Mesh"
+,      "Mesh Post"
+,      "Panther Smash"
+,      "QB Draw"
+,      "Spacing"
+,      "Z Spot"
+,      "Z Spot Shake"
+    ]
+,    "Bunch": [
+      "Bunch Trail"
+,      "Corner Out Dig"
+,      "Dig Return"
+,      "End Around"
+,      "Flanker Drive"
+,      "Flood"
+,      "HB Base"
+,      "HB Slip Screen"
+,      "Smash Return"
+,      "Spacing Switch"
+,      "Speed Dig"
+,      "Texans Curl"
+,      "Verticals"
+,      "Z Spot"
+,      "Z Spot N Go"
+    ]
+,    "Bunch Quads Close": [
+      "Drag Under"
+,      "Inside Post"
+,      "QB Draw"
+,      "Slant Spacing Dig"
+,      "Spot"
+,      "TE Angle"
+    ]
+,    "Bunch Str Nasty": [
+      "Crack Toss"
+,      "Dagger"
+,      "Flanker Drive"
+,      "HB Slip Screen"
+,      "Inside Zone"
+,      "Mesh Flat Spot"
+,      "PA Cross"
+,      "RPO Read Bubble"
+,      "Y Flat Quick"
+,      "Y Trail"
+,      "Z Mesh Quick"
+,      "Z Spot Quick"
+    ]
+,    "Bunch Str Offset": [
+      "Corner Strike"
+,      "Crack Toss"
+,      "Dagger"
+,      "Flood"
+,      "HB Slip Screen"
+,      "Inside Zone"
+,      "QB Crack Sweep"
+,      "Read Option"
+,      "RPO Alert Screen"
+,      "Slant Spacing"
+,      "Verts Dig"
+,      "Y Trail"
+    ]
+,    "Bunch Y-Flex": [
+      "Dagger"
+,      "Dig Return"
+,      "Flood"
+,      "HB Choice"
+,      "HB Slip Screen"
+,      "Inside Zone"
+,      "Jet Pull Shallow"
+,      "RPO Alert Out"
+,      "Smash Return"
+,      "Spacing"
+,      "Verticals"
+,      "Z Spot"
+    ]
+,    "Double Stack": [
+      "Curl Flat"
+,      "Fake Screen Go"
+,      "HB Draw"
+,      "HB Slip Screen"
+,      "RPO Alert Screen"
+,      "RPO Alert Trap"
+,      "RPO Read FL Screen"
+,      "Smash"
+,      "Stack Out"
+    ]
+,    "Doubles": [
+      "45 Quick Base"
+,      "Curl Combo"
+,      "Double Outs"
+,      "Double Slants"
+,      "Four Verticals"
+,      "HB Slip Screen"
+,      "Indy Outs"
+,      "Inside Zone"
+,      "PA QB Choice"
+,      "Read Option"
+,      "Redzone Scissors"
+,      "RPO Peek Slant"
+,      "Shark HB Wheel"
+,      "Spot Dbl Slants"
+,      "Texans Dig"
+    ]
+,    "Doubles Hip": [
+      "Bench HB Angle"
+,      "Flood Drive"
+,      "HB Slip Screen"
+,      "Inside Zone"
+,      "Levels"
+,      "PA Go Slot Cross"
+,      "Read Option"
+,      "Redzone Scissors"
+,      "Switch WR Drag"
+    ]
+,    "Doubles Offset Wk": [
+      "0 1 Trap"
+,      "Curls"
+,      "Double Cross"
+,      "Four Verticals"
+,      "HB Slip Screen"
+,      "Outside Zone"
+,      "PA Bubble Y Over"
+,      "PA Read"
+,      "RPO Alert Bubble"
+,      "RPO Peek Slant"
+,      "Sail"
+,      "Slants"
+    ]
+,    "Doubles Y Off": [
+      "Curl Ohio"
+,      "Fade Stop"
+,      "Four Verticals"
+,      "HB Slip Screen"
+,      "Inside Zone"
+,      "Jet Inside Zone"
+,      "Jet Touch Pass"
+,      "PA Jet Sweep"
+,      "RPO Peek Slant"
+,      "Slants"
+,      "Slot Option"
+,      "Vert Comebacks"
+    ]
+,    "Duo Slot Open": [
+      "HB Swing"
+,      "Inside Zone"
+,      "Levels"
+,      "PA Fin"
+,      "PA Flood"
+,      "RPO Read HB Flat"
+,      "Spot Lead Swing"
+,      "Sprintout Flood"
+,      "Triple Option Rt"
+    ]
+,    "Empty Ace": [
+      "All Go"
+,      "Curl Flats"
+,      "Fake Jet Pass Power"
+,      "Flood"
+,      "Jet QB Counter"
+,      "Jet QB Zone"
+,      "Jet QB Zone Wk"
+,      "Jet Touch Pass"
+,      "PA Jet Sweep"
+,      "Post Wheel Shallow"
+,      "Stick"
+,      "U Cross"
+    ]
+,    "Empty Bunch Wide": [
+      "Deep Flood"
+,      "Drive Wheel"
+,      "Drive Y Corner"
+,      "Jailbreak Screen"
+,      "QB Draw"
+,      "Spacing Switch"
+,      "Stutter Wheel"
+,      "Z Spot N Go"
+,      "Z Spot Smash"
+    ]
+,    "Empty Bunch Y Flex": [
+      "Branch Return"
+,      "Dagger"
+,      "Flood"
+,      "Jailbreak Slot Screen"
+,      "QB Draw"
+,      "Spacing Switch"
+,      "Speed Dig Out"
+,      "Swirl Hook N Go"
+,      "Z Spot"
+    ]
+,    "Flex Y Off Close": [
+      "Counter Y"
+,      "Curl Ohio"
+,      "Escape"
+,      "Flood"
+,      "HB Circle"
+,      "HB Slip Screen"
+,      "Hitch HB Rail"
+,      "Inside Zone"
+,      "Levels Mills"
+,      "PA Post Shot"
+,      "RPO Read Out"
+,      "TE Wheel"
+    ]
+,    "Gadget Backfield": [
+      "Dragon Spacing"
+,      "F Choice Spot"
+,      "HB Off Tackle"
+,      "HB Quick Base"
+,      "HB Slip Screen"
+,      "Inside Zone"
+    ]
+,    "Gadget Package": [
+      "Mesh Spot"
+,      "Outside Zone"
+,      "Read Option"
+,      "WR Wheel"
+,      "Y-Off Power O"
+,      "Y-Off Power Read"
+    ]
+,    "Normal Y Off Wk": [
+      "Curl Combo"
+,      "Double Slants"
+,      "Four Verticals"
+,      "HB Draw"
+,      "HB Slip Screen"
+,      "Inside Zone"
+,      "Pivot In Seams"
+,      "RPO Alert Bubble"
+,      "WR Under"
+    ]
+,    "Slot Left": [
+      "HB Dive"
+,      "HB Slip Screen"
+,      "Inside Zone Split"
+,      "PA Comeback Seam"
+,      "PA Mtn Slide"
+,      "Read Option"
+,      "Speed Option"
+,      "X Dig"
+,      "Y Lead Read Opt Rt"
+    ]
+,    "Split Close": [
+      "Dig HB Rail"
+,      "Dig Slot Out"
+,      "Double Swirl"
+,      "FB Inside"
+,      "Mesh"
+,      "Mesh Spot"
+,      "PA F Slide"
+,      "Pitt DBL Ins"
+,      "Pivot Dig"
+,      "Read Option"
+,      "Triple Option Lt"
+,      "Z Spot"
+    ]
+,    "Split Slot Open": [
+      "46 Y Cross"
+,      "689 Hook"
+,      "DBL Ins"
+,      "Dbl Slant"
+,      "FB Inside"
+,      "Flood"
+,      "HB Gut"
+,      "HB Off Tackle"
+,      "HB Slip Screen"
+,      "Mesh"
+,      "Mesh Post Wheel"
+,      "PA F Slide"
+,      "PA Flood"
+,      "PA HB Wheel"
+,      "Power Read"
+,      "RPO Peek Slant"
+,      "Shovel Option"
+,      "Triple Option Lt"
+    ]
+,    "Tight Open": [
+      "Bench Swirl-Return"
+,      "Bench Z Spot"
+,      "Drive"
+,      "Inside Zone"
+,      "Mesh Clearout"
+,      "Mesh Spot"
+,      "Post Corner Drive"
+,      "Read Option"
+,      "Shallow Corner Stop"
+,      "Stick"
+,      "Y Cross"
+,      "Z Spot Dig"
+    ]
+,    "Trey 4WR": [
+      "China N Go"
+,      "Dagger Smash"
+,      "DBL Corner Switch"
+,      "Double Post"
+,      "Four Verticals"
+,      "HB Base"
+,      "HB Mid Draw"
+,      "HB Slip Screen"
+,      "Inside Dig"
+,      "Inside Seam"
+,      "Inside Zone"
+,      "PA WR In"
+,      "Read Option"
+,      "Smash"
+,      "Stick"
+,      "Strong Flood"
+,      "Switch Verts"
+,      "Switch Z Curl"
+,      "WR Screen"
+,      "Y Corner"
+,      "Y Cross Flood"
+    ]
+,    "Trio HB Wk": [
+      "Dagger Sit"
+,      "Flood HB Flat"
+,      "HB Slip Screen"
+,      "Inside Zone"
+,      "Jet Chip Wasp"
+,      "PA Cross Sit"
+,      "PA Y Cross"
+,      "RPO Alert Bubble"
+,      "RPO Pin Alert Bubble"
+,      "Speed Option"
+,      "Sprint Rub Flat"
+,      "Verticals"
+    ]
+,    "Trips HB Wk": [
+      "Curls"
+,      "Deep Stick"
+,      "Drive"
+,      "HB Slip Screen"
+,      "Inside Switch"
+,      "Inside Zone"
+,      "Middle Slam"
+,      "Quick Slants"
+,      "RPO Alert Bubble"
+,      "Shock H Option"
+,      "Slot Hitch"
+,      "Verticals"
+    ]
+,    "U Off Trips": [
+      "Counter Y"
+,      "Deep Post Corner"
+,      "HB Power"
+,      "Inside Zone"
+,      "PA TE Out"
+,      "Post Wheel Shallow"
+,      "RPO Alert X Gift"
+,      "RPO Read Flat"
+,      "Shock"
+    ]
+,    "Wing Pair": [
+      "Duo"
+,      "Fk Toss Verticals"
+,      "Four Verticals"
+,      "HB Toss"
+,      "Mtn HB Trap"
+,      "Mtn Inside Zone"
+,      "Mtn Spacing"
+,      "PA TE Attack"
+,      "Snag Spacing"
+    ]
+,    "Wing Slot Offset": [
+      "Dragon Spacing"
+,      "Four Verticals"
+,      "Inside Zone"
+,      "Jet Pass Fk Zone"
+,      "Mesh Spot"
+,      "PA Double Post"
+,      "PA Jailbreak Screen"
+,      "PA Jet Sweep"
+,      "PA Read"
+,      "Read Option"
+,      "Scissors Smash"
+,      "Shallow Mills"
+,      "Stick Nod Vertical"
+,      "TE Spot Ohio"
+,      "Z Close Duo"
+,      "Z Close PA Flood"
+,      "Z Close Toss"
+,      "Zone Fake Jet"
+    ]
+,    "Wing Stack": [
+      "Four Verticals"
+,      "Inside Zone"
+,      "Mesh Spot"
+,      "Ohio Spacing"
+,      "PA Read"
+,      "Power O"
+,      "Read Option"
+,      "Smash Drive Texans vs Detroit"
+,      "Stick"
+    ]
+,    "Wing Stack Wk": [
+      "Four Verticals"
+,      "PA Slide"
+,      "RPO Alert Bubble"
+,      "RPO Alert Bubble"
+,      "RPO Peek Slant"
+,      "RPO Read Bubble"
+,      "RPO Read Cntr"
+,      "RPO Read Slant Bubble"
+,      "Stick"
+    ]
+,    "Y Off Trio Wk": [
+      "Flood Post"
+,      "Four Verticals"
+,      "HB Mid Draw"
+,      "HB Slip Screen"
+,      "Inside Zone"
+,      "Mills"
+,      "Mtn Outside Zone"
+,      "Mtn PA Deep Over"
+,      "Mtn Split Zone"
+,      "Quick Fork Zig"
+,      "Quick Short Post"
+,      "Quick Unders"
+,      "Shock H Option"
+,      "Slants"
+,      "Slot 2 Buc"
+,      "Slot Cross"
+,      "Stick"
+,      "Y Lead Read Option"
+    ]
+,    "Y Trips Wk": [
+      "DBL Ins"
+,      "Drive Y Seam"
+,      "Four Verticals"
+,      "HB Base"
+,      "HB Mid Draw"
+,      "HB Slip Screen"
+,      "Inside Attack"
+,      "Levels Y Corner"
+,      "Outside Zone"
+,      "Packer Slot Seam"
+,      "Quick Fork Zig"
+,      "Quick Short Post"
+,      "Quick Unders"
+,      "RPO Peek Slant"
+,      "Shock H Option"
+,      "Slants"
+,      "Under"
+,      "Y Stick HB Angle"
+    ]
+  },  "Special": {
+    "Field Goal": [
+      "Fake FG H Shovel"
+,      "Fake FG K Flip Pass"
+,      "Fake FG Kicker Flip"
+,      "Fake FG Rollout Pass"
+,      "Field Goal"
+,      "Field Goal 2"
+    ]
+,    "Punt": [
+      "Fake Punt FB Flat"
+,      "Fake Punt Off Tackle"
+,      "Fake Punt Shovel"
+,      "Fake Punt Sweep"
+,      "Punt"
+,      "Punt 2"
+    ]
+,    "Punt Tight": [
+      "Punt"
+    ]
+,    "QB Kneel": [
+      "QB Kneel"
+    ]
+,    "Stop Clock": [
+      "Fake Spike"
+,      "Fake Spike 2"
+,      "Fake Spike 3"
+,      "Spike Ball"
+    ]
+  }}

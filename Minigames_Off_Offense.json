@@ -1,0 +1,442 @@
+{
+  "Combine Drills": {
+    "7 on 7 Slot Flex": [
+      "Combine Cross"
+,      "Combine Double Move"
+,      "Combine HB Angle"
+,      "Combine HB Wheel"
+    ]
+,    "Ace": [
+      "Quick Slants"
+    ]
+,    "Lob 1": [
+      "Lob - Post D"
+    ]
+,    "P1 Total Control Passing": [
+      "Phase 1  Streak"
+,      "Phase 1 Dig"
+,      "Phase 1 Out"
+    ]
+,    "P1_User Catching": [
+      "Phase 1 Corner"
+,      "Phase 1 Out"
+,      "Phase 1 Post"
+    ]
+,    "P2 User Catching": [
+      "Comebacks User Catching"
+    ]
+  },  "Gap Drill": {
+    "GD 1 Blocker": [
+      "Gap_Drill_1_Blocker"
+    ]
+  },  "HB Combine Reaction": {
+    "HB Combine Reaction": [
+      "HB Combine Reaction Rep 1"
+,      "HB Combine Reaction Rep 3"
+    ]
+  },  "MG Backfield Survival": {
+    "Backfield Survival": [
+      "Backfield  Survival"
+    ]
+  },  "MG Coverage Skeleton": {
+    "CS Gun Bunch": [
+      "Bench Pivot"
+,      "Bronco Cross"
+,      "Bucs Sail"
+,      "Bucs Verts"
+,      "Bunch Trail"
+,      "Clearout FL In"
+,      "Colt Bunch"
+,      "Deep Attack"
+,      "Deep Corner"
+,      "Destroy"
+,      "Dig Return"
+,      "Flanker Drive"
+,      "Flood"
+,      "Jet Pull Shallow"
+,      "Jets DBLTrail"
+,      "Mesh"
+,      "Mesh Post"
+,      "Philly Divide"
+,      "Philly Post"
+,      "Sluggo Seam"
+,      "Smash Return"
+,      "Speed Dig"
+,      "Spot Middle"
+,      "Steelers Cross"
+,      "TE Hook Titans 18"
+,      "Texans Curl"
+,      "Verticals"
+,      "Z Spot"
+,      "Z Spot N Go"
+,      "Zona Bunch"
+    ]
+,    "CS Gun Doubles": [
+      "617"
+,      "94 Y"
+,      "Angle Smash"
+,      "Curls Slot Shake"
+,      "Deep In"
+,      "Deep Outs"
+,      "Double Sluggo"
+,      "FL Middle"
+,      "Four Verticals"
+,      "Redzone Scissors"
+,      "Skinny Posts"
+,      "Slants Middle"
+,      "Spot Dbl Slants"
+,      "Strong Flood"
+,      "X Dagger"
+,      "X Under Seams"
+,      "Y Cross"
+,      "Y Shallow Cross"
+,      "Z In"
+    ]
+  },  "MG Kicking": {
+    "MG Field Goal": [
+      "MG  Field  Goal"
+    ]
+,    "MG Punt": [
+      "MG  Punt"
+    ]
+  },  "MG Oklahoma": {
+    "MG I-Form Close": [
+      "OK - HB Iso"
+,      "OK - HB Left"
+,      "OK - HB Left Lil Scum"
+,      "OK - HB Left Mini Scum"
+,      "OK - HB Right"
+,      "OK - HB Right Lil Scum"
+,      "OK - HB Right Mini Scum"
+,      "OK - HB Still"
+    ]
+  },  "MG Option Attack": {
+    "OA Gun Deuce Close": [
+      "MG Lead Read Option"
+    ]
+,    "OA Gun Flex Y Off Wk": [
+      "MG Lead Read Option"
+    ]
+,    "OA Gun Split Wing Nasty": [
+      "MG Motion Read Option"
+    ]
+,    "OA Pistol Doubles": [
+      "MG Read Option"
+,      "MG Read Option Wk"
+    ]
+,    "OA Pistol Strong": [
+      "OA Tr Opt Switch"
+,      "OA Triple Option"
+,      "OA Triple Option SS"
+    ]
+,    "OA Split Close Pro": [
+      "MG Y-Off Power Read"
+    ]
+  },  "MG Pass Skeleton": {
+    "PS Gun Bunch": [
+      "Bench Pivot"
+,      "Bronco Cross"
+,      "Bucs Sail"
+,      "Bucs Verts"
+,      "Bunch Trail"
+,      "Clearout FL In"
+,      "Colt Bunch"
+,      "Deep Attack"
+,      "Deep Corner"
+,      "Destroy"
+,      "Dig Return"
+,      "Flanker Drive"
+,      "Flood"
+,      "Jet Pull Shallow"
+,      "Jets DBLTrail"
+,      "Mesh"
+,      "Mesh Post"
+,      "Philly Divide"
+,      "Philly Post"
+,      "Sluggo Seam"
+,      "Smash Return"
+,      "Speed Dig"
+,      "Spot Middle"
+,      "Steelers Cross"
+,      "TE Hook Titans 18"
+,      "Texans Curl"
+,      "Verticals"
+,      "Z Spot"
+,      "Z Spot N Go"
+,      "Zona Bunch"
+    ]
+,    "PS Gun Doubles": [
+      "617"
+,      "94 Y"
+,      "Angle Smash"
+,      "Curls Slot Shake"
+,      "Deep In"
+,      "Deep Outs"
+,      "Double Sluggo"
+,      "FL Middle"
+,      "Four Verticals"
+,      "Redzone Scissors"
+,      "Skinny Posts"
+,      "Slants Middle"
+,      "Spot Dbl Slants"
+,      "Strong Flood"
+,      "X Dagger"
+,      "X Under Seams"
+,      "Y Cross"
+,      "Y Shallow Cross"
+,      "Z In"
+    ]
+,    "PS Gun Empty Saint": [
+      "Curl Flats"
+,      "Drive Unders"
+,      "Hitch Seams"
+,      "Saints Flood"
+,      "Saints HB Wheel"
+,      "Saints Stick"
+,      "Stick Nod"
+    ]
+,    "PS Gun Split Close": [
+      "Charger Dig"
+,      "Close Corner"
+,      "Close FB Trail"
+,      "Close HB Wheel"
+,      "Double Swirl"
+,      "Niners Pivot Dig"
+,      "Pitt DBL Ins"
+,      "Pitt Slot Curl"
+,      "Scat"
+,      "WR Corner"
+,      "Z Spot"
+    ]
+,    "PS Gun Split Offset": [
+      "Corner - Threat"
+,      "Cross Weak Flood"
+,      "Deep Comeback"
+,      "Double Flares"
+,      "Falcon Cross"
+,      "Falcon Go's"
+,      "Falcon Spot"
+,      "Falcons X Dig"
+,      "FB Angle"
+,      "Flat Combo"
+,      "Flood"
+,      "Mesh Post"
+,      "Philly Curls"
+,      "Saints Middle"
+,      "Slot Cross"
+,      "Slot Post"
+,      "WR Corners"
+,      "Z Slant Y Corner"
+    ]
+  },  "MG Pitch Party": {
+    "MG Super I Form": [
+      "MG Pitch Party"
+    ]
+  },  "MG QB Route Tree": {
+    "Ace": [
+      "PA Boot Left"
+,      "PA Post Cross Shot"
+,      "PA Shot Post"
+,      "PA_Boot_Roll"
+    ]
+,    "Empty Bunch": [
+      "Seattle"
+,      "Z Spot"
+    ]
+,    "Gun Doubles": [
+      "Deep In"
+,      "Double Sluggo"
+,      "FL Middle"
+,      "Slants Middle"
+,      "Strong Flood"
+,      "X Dagger"
+,      "X_Under_Seams"
+,      "Y Cross"
+,      "Y Shallow Cross"
+,      "Z In"
+    ]
+,    "Tight": [
+      "Zona Corners"
+    ]
+,    "Trips": [
+      "Smash"
+    ]
+  },  "MG Rushing Attack": {
+    "MG I-Form Close": [
+      "RA - HB Iso"
+,      "RA - HB Lead Dive"
+,      "RA - HB Stretch"
+,      "RA - HB Stretch Wk"
+,      "RA - HB Toss"
+,      "RA - HB Toss Wk"
+,      "RA - Power O"
+,      "RA - Power O Wk"
+,      "RA - Zone"
+,      "RA - Zone Wk"
+    ]
+  },  "MG Target Passing": {
+    "MG Target Passing": [
+      "MG Deep Wide Banana"
+    ]
+  },  "MG Trench Battle": {
+    "TB 1 Blocker": [
+      "Trench Battle 1 Blocker"
+    ]
+,    "TB 1 Blocker Far Away": [
+      "Trench Battle 1 Blocker Far Away"
+    ]
+,    "TB 2 Blockers": [
+      "Trench Battle 2 Blockers"
+    ]
+,    "TB 5 Blockers": [
+      "Trench Battle 5 Blockers"
+    ]
+  },  "MG WR Battle": {
+    "DB AI Routes": [
+      "Bench Pivot"
+,      "Bronco Cross"
+,      "Bucs Sail"
+,      "Bucs Verts"
+,      "Bunch Trail"
+,      "Clearout FL In"
+,      "Colt Bunch"
+,      "Deep Attack"
+,      "Deep Corner"
+,      "Destroy"
+,      "Dig Return"
+,      "Flanker Drive"
+,      "Flood"
+,      "Jet Pull Shallow"
+,      "Jets DBLTrail"
+,      "Mesh"
+,      "Mesh Post"
+,      "Philly Divide"
+,      "Philly Post"
+,      "Sluggo Seam"
+,      "Smash Return"
+,      "Speed Dig"
+,      "Spot Middle"
+,      "Steelers Cross"
+,      "TE Hook Titans 18"
+,      "Texans Curl"
+,      "Verticals"
+,      "Z Spot"
+,      "Z Spot N Go"
+,      "Zona Bunch"
+    ]
+,    "WR Battle Gun Doubles": [
+      "617"
+,      "94 Y"
+,      "Angle Smash"
+,      "Curls Slot Shake"
+,      "Deep In"
+,      "Deep Outs"
+,      "Double Sluggo"
+,      "FL Middle"
+,      "Four Verticals"
+,      "Redzone Scissors"
+,      "Skinny Posts"
+,      "Slants Middle"
+,      "Spot Dbl Slants"
+,      "Strong Flood"
+,      "X Dagger"
+,      "X Under Seams"
+,      "Y Cross"
+,      "Y Shallow Cross"
+,      "Z In"
+    ]
+,    "WRB Lone Rec Left": [
+      "MG Lone Rec Left"
+    ]
+,    "WRB Lone Rec Right": [
+      "MG Lone Rec Right"
+    ]
+  },  "NST Tutorials": {
+    "NST Gun Bunch": [
+      "NST - Flanker Drive"
+,      "NST - Verticals"
+,      "NST HB Base"
+,      "NST Mesh"
+,      "NST Philly Post"
+,      "PA Post"
+    ]
+,    "NST Gun Duo Slot Open": [
+      "NST Triple Option Rt"
+    ]
+,    "NST Gun Trips TE": [
+      "NST Deep In"
+,      "NST Flood"
+,      "NST Inside Zone"
+,      "NST Read Option"
+,      "NST Speed Option"
+,      "NST Texas"
+    ]
+,    "NST Gun Wing Slot Wk": [
+      "NST RPO Alert Bubble"
+    ]
+,    "NST Gun Y Off Trips": [
+      "NST RPO Bubble Y Pop"
+,      "NST RPO Read Y Flat"
+    ]
+,    "NST I Form": [
+      "NST - HB Iso"
+,      "NST - HB Left"
+,      "NST - HB Left Lil Scum"
+,      "NST - HB Right"
+,      "NST - HB Right Lil Scum"
+    ]
+,    "NST Landing Zone NFL Kickoff": [
+      "NST Kickoff Middle"
+    ]
+,    "NST Lone Rec Right": [
+      "NST Lone Rec Dig"
+,      "NST Lone Rec Vert"
+    ]
+,    "NST NFL Onside": [
+      "NST Strong Onside"
+    ]
+,    "NST Punt": [
+      "NST Punt Normal"
+    ]
+,    "NST Super I Form": [
+      "NST Pitch Party"
+    ]
+  },  "Scramble Survive": {
+    "SS - Empty Base Flex": [
+      "SS - All Hitch"
+,      "SS - Redzone Up"
+,      "SS - Stick"
+    ]
+  },  "Shotgun": {
+    "Bunch TE": [
+      "HB Slip Screen"
+    ]
+,    "Empty HB Wide": [
+      "Jailbreak_Slot_Screen"
+    ]
+  },  "WR After Catch Master": {
+    "ACM - Empty Base Flex": [
+      "ACM - Stick"
+    ]
+,    "ACM - Rep 3": [
+      "ACM - Rep 3"
+    ]
+,    "ACM - Rep 5": [
+      "ACM - Rep 5"
+    ]
+,    "ACM -Rep 4": [
+      "ACM - Rep 4"
+    ]
+,    "ACM Rep 6": [
+      "ACM Rep 6"
+    ]
+,    "ACM Rep 6 - 2 Blockers": [
+      "ACM Rep 6 - 2 Blockers"
+    ]
+,    "ACM Rep 7": [
+      "ACM Rep 7"
+    ]
+,    "ACM Rep 8": [
+      "ACM Rep 8"
+    ]
+  }}

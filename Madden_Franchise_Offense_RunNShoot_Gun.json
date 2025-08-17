@@ -1,0 +1,37 @@
+{
+  "Shotgun": {
+    "Spread Slots Close": [
+      "45 Quick Base"
+,      "90 Y Shallow"
+,      "HB Draw"
+,      "Inside Zone"
+,      "Read Option"
+,      "RNS 590 Texas"
+,      "RNS 590 Z Replace"
+,      "RNS 60 Z Read"
+,      "RNS 90 Replace Y Stick"
+,      "RNS Hitches"
+,      "RNS Rip 60 Go Swap"
+,      "RNS Rip 60 Z Slide"
+,      "RNS Rip 61 Choice"
+,      "RNS Switch Smash"
+,      "RNS Y Stick"
+    ]
+,    "Trips Slots Close": [
+      "61 X Choice"
+,      "Choice Special"
+,      "Divide"
+,      "Divide Special"
+,      "Divide Swap"
+,      "H Replace"
+,      "HB Mid Draw"
+,      "Hook"
+,      "Inside Zone"
+,      "Return Go"
+,      "Return Go Swap"
+,      "Return X Choice Special"
+,      "RNS Georgia"
+,      "RNS Georgia Mesh"
+,      "RNS Hitches"
+    ]
+  }}

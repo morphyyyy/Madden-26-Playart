@@ -1,0 +1,107 @@
+{
+  "Far": {
+    "Pro": [
+      "Double Comeback"
+,      "HB Dive"
+,      "Y Post"
+    ]
+,    "Tight Slot": [
+      "FB Dive"
+,      "Flats"
+,      "HB Dive"
+,      "Mesh"
+,      "Slot Corner"
+,      "X Spot"
+    ]
+  },  "Kickoff": {
+    "Heavy Landing Zone NFL Kickoff": [
+      "Heavy Kickoff Left"
+,      "Heavy Kickoff Middle"
+,      "Heavy Kickoff Right"
+    ]
+,    "Landing Zone NFL Kickoff": [
+      "Kickoff Left"
+,      "Kickoff Middle"
+,      "Kickoff Right"
+    ]
+,    "NFL Kickoff": [
+      "Kickoff  Deep Middle"
+,      "Kickoff  Deep Right"
+,      "Kickoff Deep Left"
+    ]
+,    "NFL Onside Kick": [
+      "Onside Kick"
+    ]
+,    "NFL Onside Kick 2": [
+      "Speed Onside"
+    ]
+,    "NFL Onside Kick 3": [
+      "Strong Onside"
+    ]
+  },  "Near": {
+    "Close": [
+      "FB Dive"
+,      "PA Strong Flow"
+,      "Post Drag"
+    ]
+,    "Jumbo": [
+      "FB Dive"
+,      "PA Strong Flow"
+,      "TE Corner"
+    ]
+,    "Pro": [
+      "HB Inside"
+,      "Slants"
+,      "Texas KO"
+    ]
+,    "Y Left Slot": [
+      "FB Dive"
+,      "PA Read Special"
+,      "Slants"
+    ]
+  },  "Safety Kickoff": {
+    "Landing Zone Heavy Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Punt": [
+      "Punt Left"
+,      "Punt Middle"
+,      "Punt Right"
+    ]
+  },  "Special": {
+    "Field Goal": [
+      "Fake FG K Direct Snap"
+,      "Fake FG K Toss Pass"
+,      "Fake FG Kicker Flip"
+,      "Fake FG Rollout Pass"
+,      "Field Goal"
+,      "Field Goal 2"
+    ]
+,    "Punt": [
+      "Fake Punt Off Tackle"
+,      "Fake Punt Sweep"
+,      "Fake Punt W Release"
+,      "Fake Punt X Curl"
+,      "Punt"
+,      "Punt 2"
+    ]
+,    "Punt Tight": [
+      "Punt"
+    ]
+,    "QB Kneel": [
+      "QB Kneel"
+    ]
+,    "Stop Clock": [
+      "Fake Spike"
+,      "Fake Spike 2"
+,      "Fake Spike 3"
+,      "Spike Ball"
+    ]
+  }}

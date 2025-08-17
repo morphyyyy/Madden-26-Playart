@@ -1,0 +1,136 @@
+{
+  "I Form": {
+    "Pro": [
+      "26 Duo Alert X Lookie"
+,      "Cross In"
+,      "HB Lead Dive"
+,      "HB Stretch"
+,      "PA X Dig"
+,      "Seam 678"
+    ]
+  },  "Kickoff": {
+    "Heavy Landing Zone NFL Kickoff": [
+      "Heavy Kickoff Left"
+,      "Heavy Kickoff Middle"
+,      "Heavy Kickoff Right"
+    ]
+,    "Landing Zone NFL Kickoff": [
+      "Kickoff Left"
+,      "Kickoff Middle"
+,      "Kickoff Right"
+    ]
+,    "NFL Kickoff": [
+      "Kickoff  Deep Middle"
+,      "Kickoff  Deep Right"
+,      "Kickoff Deep Left"
+    ]
+,    "NFL Onside Kick": [
+      "Onside Kick"
+    ]
+,    "NFL Onside Kick 2": [
+      "Speed Onside"
+    ]
+,    "NFL Onside Kick 3": [
+      "Strong Onside"
+    ]
+  },  "Safety Kickoff": {
+    "Landing Zone Heavy Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Punt": [
+      "Punt Left"
+,      "Punt Middle"
+,      "Punt Right"
+    ]
+  },  "Shotgun": {
+    "Bunch": [
+      "Curls Attack"
+,      "Deep Corner"
+,      "HB Mid Draw"
+,      "HB Sweep"
+,      "Inside Cross"
+,      "Smash Return"
+    ]
+,    "Doubles": [
+      "0 1 Trap"
+,      "Curls Slot Shake"
+,      "Inside Zone"
+,      "PA Shot"
+,      "RPO Peek Slant"
+,      "Spot Dbl Slants"
+    ]
+,    "Empty Trey": [
+      "QB Draw"
+,      "Stick"
+,      "Stick N Nod"
+    ]
+,    "Spread": [
+      "Hawks Post KO"
+,      "Inside Zone"
+,      "Quick Slot Out"
+    ]
+  },  "Singleback": {
+    "Doubles North": [
+      "Drag In"
+,      "HB Dive"
+,      "PA Cross"
+    ]
+,    "Wing Slot": [
+      "HB Dive"
+,      "HB Toss Strong"
+,      "Mesh Spot"
+,      "PA TE Scissors"
+,      "X Out N Up"
+,      "Y-Go Slot Cross"
+    ]
+,    "Wing Tight": [
+      "HB Dive"
+,      "HB Inside Zone"
+,      "Jet Sweep"
+,      "Mesh Spot"
+,      "PA U-Drag Wheel"
+,      "Stretch Alert X Lookie"
+    ]
+  },  "Special": {
+    "Field Goal": [
+      "Fake FG K Direct Snap"
+,      "Fake FG K Toss Pass"
+,      "Fake FG Kicker Flip"
+,      "Fake FG Rollout Pass"
+,      "Field Goal"
+,      "Field Goal 2"
+    ]
+,    "Punt": [
+      "Fake Punt Off Tackle"
+,      "Fake Punt Sweep"
+,      "Fake Punt W Release"
+,      "Fake Punt X Curl"
+,      "Punt"
+,      "Punt 2"
+    ]
+,    "Punt Tight": [
+      "Punt"
+    ]
+,    "QB Kneel": [
+      "QB Kneel"
+    ]
+,    "Stop Clock": [
+      "Fake Spike"
+,      "Fake Spike 2"
+,      "Fake Spike 3"
+,      "Spike Ball"
+    ]
+  },  "Strong I": {
+    "Close": [
+      "Counter Weak"
+,      "FL Drive"
+,      "Quick Toss"
+    ]
+  }}

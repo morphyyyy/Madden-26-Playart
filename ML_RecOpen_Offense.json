@@ -1,0 +1,274 @@
+{
+  "ST_Deep_Pass_Concepts_Flood": {
+    "Pro": [
+      "PA Power O"
+    ]
+,    "Trey 4WR": [
+      "Strong Flood "
+    ]
+,    "Wing": [
+      "PA TE Flood"
+    ]
+,    "Y Off Trips": [
+      "Strong Flood"
+    ]
+,    "Y Trips": [
+      "PA Read "
+    ]
+  },  "ST_Deep_Pass_Concepts_Mills": {
+    "Ace Slot": [
+      "PA Mills"
+    ]
+,    "Empty Cowboy": [
+      "Inside Cross "
+    ]
+,    "Slot": [
+      "Mills C"
+    ]
+  },  "ST_Deep_Pass_Concepts_PA_PowerO": {
+    "F Wing Slot": [
+      "PA Power O Wing"
+    ]
+,    "Slot": [
+      "PA Power O_"
+    ]
+,    "Slot": [
+      "PA Power O"
+    ]
+,    "Wing": [
+      "PA Mtn Power "
+,      "PA Power O Copy"
+    ]
+  },  "ST_Deep_Pass_Concepts_Shot": {
+    "Ace": [
+      "PA Post Cross Shot"
+,      "PA Shot Post"
+    ]
+,    "Doubles": [
+      "PA Draw Shot "
+    ]
+,    "Normal Flex Wing": [
+      "PA Pack Seams"
+    ]
+,    "Pro": [
+      "PA Go's"
+    ]
+,    "Slot": [
+      "PA Shot Post C"
+    ]
+  },  "ST_Deep_Pass_Concepts_Switch": {
+    "Empty Cowboy": [
+      "Inside Wheels "
+    ]
+,    "Slot": [
+      "Post Wheel "
+    ]
+,    "Spread": [
+      "RNS Switch Curl"
+,      "RNS Switch Dig"
+    ]
+,    "Y Trips": [
+      "PA WR In"
+    ]
+  },  "ST_Deep_Pass_Concepts_Verticals": {
+    "Bunch": [
+      "Seattle "
+    ]
+,    "Doubles": [
+      "Four Verticals Copy"
+    ]
+,    "Spread": [
+      "Four Verticals"
+    ]
+,    "Trips": [
+      "Four Verticals"
+    ]
+,    "Y Trips": [
+      "Four Verticals"
+    ]
+  },  "ST_Medium_Pass_Concepts_CurlFlat": {
+    "Doubles": [
+      "Curl Flats G Dbls"
+    ]
+,    "Doubles": [
+      "Curl Flats SB DBLs"
+    ]
+,    "Spread": [
+      "Curl Flats Spread"
+    ]
+,    "Spread": [
+      "Curl Flats G Spread"
+    ]
+,    "Wing": [
+      "Curl Combo Wing"
+    ]
+  },  "ST_Medium_Pass_Concepts_Dagger": {
+    "Doubles": [
+      "Dagger SB Doubles"
+,      "Dagger_SB_Dbls"
+    ]
+,    "Slot": [
+      "Dagger I Slot"
+    ]
+,    "Spread Y-Flex Wk": [
+      "Flanker Dig Spread"
+    ]
+,    "Y Trips Wk": [
+      "Dagger_Gun_YTrips"
+    ]
+  },  "ST_Medium_Pass_Concepts_Drive": {
+    "Bunch": [
+      "Flanker Drive Bunch"
+    ]
+,    "Doubles": [
+      "Drive_Gun_Dbls"
+    ]
+,    "Pro Split": [
+      "FL Drive"
+    ]
+,    "Pro Strong": [
+      "FL Drive Strg"
+    ]
+,    "Wing": [
+      "WR Drive Wing"
+    ]
+  },  "ST_Medium_Pass_Concepts_PA_Pass_Rollout": {
+    "Ace": [
+      "PA Boot Left "
+,      "PA Boot Roll"
+    ]
+,    "Doubles": [
+      "PA Boot Comeback"
+    ]
+,    "Pro": [
+      "PA Boot_"
+    ]
+,    "Wing": [
+      "PA Boot Lt"
+    ]
+  },  "ST_Medium_Pass_Concepts_ShallowCross": {
+    "5WR": [
+      "Shallow Cross C"
+    ]
+,    "Spread Flex": [
+      "Y Shallow Cross "
+,      "Z Shallow Cross "
+    ]
+,    "Spread Y-Flex Wk": [
+      "H Shallow Cross Copy"
+,      "Mtn Y Shallow Cross"
+    ]
+  },  "ST_Medium_Pass_Concepts_Smash": {
+    "Flex Close": [
+      "Bench"
+,      "Smash"
+    ]
+,    "Spread": [
+      "Smash Corners"
+    ]
+,    "Spread Y-Flex": [
+      "Smash HB Check"
+    ]
+,    "Spread Y-Flex Wk": [
+      "Smash Corners"
+    ]
+,    "Tight Slots": [
+      "Bench Switch"
+    ]
+,    "Trips": [
+      "Smash"
+,      "Smash Curls"
+    ]
+  },  "ST_Short_Pass_Concepts_Levels": {
+    "Empty Trey": [
+      "Levels"
+,      "Levels Switch"
+    ]
+,    "Empty Trey Flex": [
+      "Niners Levels"
+    ]
+,    "Trey Open": [
+      "Levels Switch"
+    ]
+,    "Trips": [
+      "Levels"
+    ]
+,    "Y  Trips": [
+      "Levels Switch"
+    ]
+,    "Y Trips Wk": [
+      "Levels Switch"
+    ]
+  },  "ST_Short_Pass_Concepts_Slants": {
+    "5WR": [
+      "Quick Slants"
+    ]
+,    "Ace": [
+      "Quick Slants"
+    ]
+,    "Doubles": [
+      "Slants"
+    ]
+,    "Doubles Flex": [
+      "Qk Slants In"
+    ]
+,    "Doubles Y Open": [
+      "Slants"
+    ]
+,    "Pro": [
+      "Slants"
+    ]
+,    "Pro": [
+      "Quick Slants"
+    ]
+,    "Spread Y-Slot": [
+      "Quick Slants"
+    ]
+  },  "ST_Short_Pass_Concepts_Spacing": {
+    "Bunch": [
+      "Spacing"
+,      "Spacing 2"
+,      "Spacing 3"
+    ]
+  },  "ST_Short_Pass_Concepts_Spot": {
+    "Bunch": [
+      "Z Spot"
+    ]
+,    "Bunch": [
+      "Z Spot"
+    ]
+,    "Doubles": [
+      "Spot Smash"
+    ]
+,    "Doubles Flex": [
+      "Z Spot"
+    ]
+,    "Empty Bunch": [
+      "Z Spot"
+    ]
+,    "Pro": [
+      "Z Spot"
+    ]
+,    "Tight": [
+      "Zona Corners"
+    ]
+,    "Wing": [
+      "Z Spot"
+    ]
+  },  "ST_Short_Pass_Concepts_Stick": {
+    "Ace Slot": [
+      "Stick Ace"
+    ]
+,    "Slot": [
+      "Y Stick "
+    ]
+,    "Wing": [
+      "TE Stick"
+    ]
+,    "Wing Trips": [
+      "Stick"
+    ]
+,    "Y Trips": [
+      "Stick"
+    ]
+  }}

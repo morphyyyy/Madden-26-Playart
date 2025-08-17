@@ -1,0 +1,44 @@
+{
+  "Maryland I": {
+    "Heavy": [
+      "HB Blast"
+,      "HB Lead Dive"
+,      "PA HB Wheel"
+,      "PA Power O"
+,      "Power O"
+,      "QB Sneak"
+    ]
+  },  "Power I": {
+    "Strong": [
+      "FB Dive"
+,      "HB Blast"
+,      "HB Lead Dive"
+,      "PA FB Flat"
+,      "PA HB Wheel"
+,      "PA Looch Special"
+,      "PA Power O"
+,      "Power O"
+,      "X Slant"
+    ]
+  },  "Shotgun": {
+    "Double Wing": [
+      "Mesh Sit"
+,      "Mtn Counter"
+,      "Mtn HB Dive"
+,      "Mtn Inside Zone"
+,      "Mtn Inside Zone Split"
+,      "Mtn PA Slide"
+,      "Mtn Spot"
+,      "QB Blast"
+,      "QB Power"
+    ]
+  },  "Split T": {
+    "Tight": [
+      "FB Dive"
+,      "FB Toss"
+,      "Fk FB Toss Rollout Lt"
+,      "HB Inside"
+,      "HB Lead"
+,      "PA Boot"
+    ]
+  }}

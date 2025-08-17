@@ -1,0 +1,202 @@
+{
+  "Full House": {
+    "Normal": [
+      "Counter Lead"
+,      "PA Ctr Waggle"
+    ]
+,    "Normal Wide": [
+      "Angle Swing"
+,      "Corner Strike"
+,      "Curls"
+,      "HB Slam"
+,      "HB Smash"
+,      "PA Middle"
+,      "Power O"
+    ]
+  },  "Goal Line Offense": {
+    "Normal": [
+      "FB Dive"
+,      "HB Counter Wk"
+,      "HB Dive"
+,      "HB Split O"
+,      "HB Sting"
+,      "PA Power O"
+,      "PA Spot"
+,      "PA Sprint HB Flat"
+,      "PA Waggle"
+,      "Power O"
+,      "QB Sneak"
+,      "Strong Toss"
+    ]
+  },  "Hail Mary": {
+    "Spread": [
+      "Goal Post"
+    ]
+,    "Trio": [
+      "Hail Mary"
+,      "Shot Save Clock"
+    ]
+  },  "I Form": {
+    "Hulk": [
+      "FB Dive"
+,      "HB Counter Wk"
+,      "HB Iso"
+,      "HB Power O"
+,      "PA Cross"
+,      "PA FB Flat"
+    ]
+,    "Pro": [
+      "Bench"
+,      "Curls"
+,      "FB Dive Strong"
+,      "FB Fake HB Flip"
+,      "HB Counter Wk"
+,      "HB Iso"
+,      "HB Lead Draw"
+,      "Inside Zone"
+,      "Inside Zone Wk"
+,      "PA Clearout"
+,      "PA Double Post"
+,      "PA Draw Shot"
+,      "PA Power O"
+,      "PA Weak Flood"
+,      "Power O"
+,      "Quick Slants"
+,      "Slant and Go's"
+,      "X Post"
+    ]
+  },  "Kickoff": {
+    "Heavy Landing Zone NFL Kickoff": [
+      "Heavy Kickoff Left"
+,      "Heavy Kickoff Middle"
+,      "Heavy Kickoff Right"
+    ]
+,    "Landing Zone NFL Kickoff": [
+      "Kickoff Left"
+,      "Kickoff Middle"
+,      "Kickoff Right"
+    ]
+,    "NFL Kickoff": [
+      "Kickoff  Deep Middle"
+,      "Kickoff  Deep Right"
+,      "Kickoff Deep Left"
+    ]
+,    "NFL Onside Kick": [
+      "Onside Kick"
+    ]
+,    "NFL Onside Kick 2": [
+      "Speed Onside"
+    ]
+,    "NFL Onside Kick 3": [
+      "Strong Onside"
+    ]
+  },  "Power I": {
+    "Strong": [
+      "HB Blast"
+,      "HB Lead Dive"
+,      "HB Misdirection"
+,      "HB Slam"
+,      "HB Toss"
+,      "PA Boot Slide"
+,      "PA FB Flat"
+,      "PA HB Wheel"
+,      "PA Looch Special"
+,      "PA Power O"
+,      "Power O"
+,      "X Slant"
+    ]
+,    "Tight": [
+      "HB Blast"
+,      "HB Lead Dive"
+,      "HB Toss"
+,      "PA FB Flat"
+,      "PA Power O"
+,      "Power O"
+    ]
+  },  "Safety Kickoff": {
+    "Landing Zone Heavy Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Punt": [
+      "Punt Left"
+,      "Punt Middle"
+,      "Punt Right"
+    ]
+  },  "Shotgun": {
+    "Spread Dbl Flex": [
+      "Deep Curl"
+,      "FL Cross"
+,      "Four Verticals"
+,      "HB Slip Screen"
+,      "Hitch Corners"
+,      "Inside Zone"
+,      "PA Read"
+,      "QB Wrap"
+,      "Read Option"
+,      "RPO Peek Slant"
+,      "Slants Middle"
+,      "Slot Out"
+    ]
+,    "Trey Open HB Str": [
+      "DBL Ins"
+,      "Fade Stop"
+,      "Four Verticals"
+,      "HB Mid Draw"
+,      "HB Slip Screen"
+,      "Inside Zone"
+,      "Levels Switch"
+,      "Read Option"
+,      "RPO Peek Bubble"
+,      "RPO Peek Slant"
+,      "Slot Fade"
+,      "Stick"
+    ]
+  },  "Singleback": {
+    "Wing Tight U": [
+      "Dragon Spacing"
+,      "HB Dive"
+,      "HB Power O"
+,      "HB Stretch"
+,      "Jet Sweep"
+,      "PA Dive"
+,      "PA Jet Sweep"
+,      "Sluggo Spacing"
+,      "Zone Fake Jet"
+    ]
+  },  "Special": {
+    "Field Goal": [
+      "Fake FG H Shovel"
+,      "Fake FG Holder Power"
+,      "Fake FG K Toss Pass"
+,      "Fake FG Rollout Pass"
+,      "Field Goal"
+,      "Field Goal 2"
+    ]
+,    "Punt": [
+      "Fake Punt FB Pass"
+,      "Fake Punt Off Tackle"
+,      "Fake Punt Sweep"
+,      "Fake Punt X Curl"
+,      "Punt"
+,      "Punt 2"
+    ]
+,    "Punt Tight": [
+      "Punt"
+    ]
+,    "QB Kneel": [
+      "QB Kneel"
+    ]
+,    "Stop Clock": [
+      "Fake Spike"
+,      "Fake Spike 2"
+,      "Fake Spike 3"
+,      "Spike Ball"
+    ]
+  }}

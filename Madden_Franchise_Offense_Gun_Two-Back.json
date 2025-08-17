@@ -1,0 +1,39 @@
+{
+  "Shotgun": {
+    "Split Close": [
+      "Close Corner"
+,      "Close HB Wheel"
+,      "Dig HB Rail"
+,      "FB Inside"
+,      "HB Option"
+,      "HB Power O"
+,      "HB Slip Screen"
+,      "Mesh"
+,      "PA F Slide"
+,      "Read Option"
+,      "Scat"
+,      "Swirl Curls"
+,      "Triple Option Lt"
+,      "WR Corner"
+,      "Z Spot"
+    ]
+,    "Split Slot Offset": [
+      "FL Drag"
+,      "Flood"
+,      "HB Cross Buck"
+,      "HB Off Tackle"
+,      "HB Slip Screen"
+,      "Inside Zone Lt"
+,      "PA Deep Cross"
+,      "Shakes"
+,      "Triple Option Lt"
+    ]
+,    "Split Twins": [
+      "Corners"
+,      "HB Off Tackle"
+,      "Inside Zone Split"
+,      "PA F Slide"
+,      "Redzone HB Corner"
+,      "Texas"
+    ]
+  }}

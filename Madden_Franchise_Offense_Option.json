@@ -1,0 +1,41 @@
+{
+  "I Form": {
+    "Pro": [
+      "Curls"
+,      "FB Dive Fake HB"
+,      "FB Fake HB Flip"
+,      "HB Blast Alert Z Lookie"
+,      "HB Counter Str"
+,      "HB Pass"
+,      "HB Stretch Alert X Smoke"
+,      "HB Toss"
+,      "Inside Veer Triple Opt"
+,      "Midline Triple Opt"
+,      "PA Comeback Slide"
+,      "PA X Dig"
+    ]
+  },  "Pistol": {
+    "Strong": [
+      "F Lead Read Option"
+,      "HB Blast Alert X Smoke"
+,      "HB Power"
+,      "PA Corner HB Slip"
+,      "PA Flood"
+,      "Power Option"
+,      "Tr Opt Switch"
+,      "Tr Option Slip"
+,      "Triple Option"
+    ]
+  },  "Shotgun": {
+    "Split Offset": [
+      "Mtn FB Cross Screen"
+,      "Mtn Inside Zone"
+,      "Mtn Load Option"
+,      "Mtn PA Flood"
+,      "Mtn PA HB Swing"
+,      "Mtn Triple Option Rt"
+,      "Read Option"
+,      "Triple Option Lt"
+,      "Triple Option Rt"
+    ]
+  }}

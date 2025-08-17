@@ -1,0 +1,118 @@
+{
+  "Direct Snaps": {
+    "FakePuntDirectSnap": [
+      "Fake Punt FB Off Tackle"
+    ]
+  },  "Kickoff": {
+    "Heavy Landing Zone NFL Kickoff": [
+      "Heavy Kickoff Left"
+,      "Heavy Kickoff Middle"
+,      "Heavy Kickoff Right"
+    ]
+,    "Landing Zone NFL Kickoff": [
+      "Kickoff Left"
+,      "Kickoff Middle"
+,      "Kickoff Right"
+    ]
+,    "NFL Kickoff": [
+      "Kickoff  Deep Middle"
+,      "Kickoff  Deep Right"
+,      "Kickoff Deep Left"
+    ]
+,    "NFL Onside Kick": [
+      "Onside Kick"
+    ]
+,    "NFL Onside Kick 2": [
+      "Speed Onside"
+    ]
+,    "NFL Onside Kick 3": [
+      "Strong Onside"
+    ]
+  },  "Safety Kickoff": {
+    "Landing Zone Heavy Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Punt": [
+      "Punt Left"
+,      "Punt Middle"
+,      "Punt Right"
+    ]
+  },  "Small Sided": {
+    "3 on 3 Base": [
+      "All Streaks"
+,      "Corner Angle"
+,      "Corner Streak"
+,      "Drag Out (1)"
+,      "Drag Wheel"
+,      "HB Inside Zone"
+,      "Hitch Wheel"
+,      "In Wheel"
+,      "Out In"
+,      "Out Wheel"
+,      "Post Angle"
+,      "Post Streak"
+,      "Post Wheel"
+,      "Quick Out Angle"
+,      "Slant Swing"
+,      "Slant Wheel"
+,      "Streak Angle"
+,      "Streak Wheel"
+    ]
+,    "3 on 3 Pro": [
+      "All Streaks"
+,      "Double Hitch"
+,      "In Post"
+,      "Post Streak"
+,      "Slant Drag"
+,      "Slants"
+    ]
+,    "3 on 3 Slot": [
+      "In Go"
+,      "Post  Corner"
+,      "Short In Post"
+,      "Slants"
+,      "Slants Drag"
+,      "Streak Corner"
+    ]
+,    "3 on 3 Stack": [
+      "In Out"
+,      "Post  Corner"
+,      "Slant Post"
+,      "Slants"
+,      "Slants Drag"
+,      "Streak Corner"
+    ]
+  },  "Special": {
+    "Field Goal": [
+      "Fake FG H Shovel"
+,      "Fake FG Holder Power"
+,      "Fake FG K Flip Pass"
+,      "Fake FG Sprintout Pass"
+    ]
+,    "Punt": [
+      "Fake Punt FB Pass"
+,      "Fake Punt Shovel"
+,      "Fake Punt W Release"
+,      "Punt"
+,      "Punt 2"
+    ]
+,    "Punt Tight": [
+      "Punt"
+    ]
+,    "QB Kneel": [
+      "QB Kneel"
+    ]
+,    "Stop Clock": [
+      "Fake Spike"
+,      "Fake Spike 2"
+,      "Fake Spike 3"
+,      "Spike Ball"
+    ]
+  }}

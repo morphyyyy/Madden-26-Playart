@@ -1,0 +1,26 @@
+{
+  "Wildcat": {
+    "Pro": [
+      "Counter"
+,      "Jet Sweep"
+,      "Power"
+    ]
+,    "Slot Flex": [
+      "Counter"
+,      "Jet Sweep"
+,      "Power"
+    ]
+,    "Trips Over": [
+      "Blast Rt"
+,      "Counter"
+,      "Jet Sweep"
+,      "PA Jet Cross"
+,      "PA Jet Sweep"
+,      "Power"
+    ]
+,    "Unbalanced": [
+      "Jet Sweep"
+,      "PA Jet Sweep"
+,      "Power"
+    ]
+  }}

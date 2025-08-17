@@ -1,0 +1,295 @@
+{
+  "Goal Line Offense": {
+    "Normal": [
+      "FB Dive"
+,      "HB Dive"
+,      "HB Sting"
+,      "PA Power O"
+,      "PA Spot"
+,      "PA Waggle"
+,      "Power O"
+,      "QB Sneak"
+,      "Strong Toss"
+    ]
+  },  "Hail Mary": {
+    "Spread": [
+      "Goal Post"
+    ]
+,    "Trio": [
+      "Hail Mary"
+,      "Shot Save Clock"
+    ]
+  },  "I Form": {
+    "Pro": [
+      "Curls"
+,      "HB Blast"
+,      "HB Stretch Alert X Lookie"
+,      "Inside Veer Triple Opt"
+,      "PA Boot"
+,      "PA Comeback Slide"
+,      "PA Go's"
+,      "PA Scissors"
+,      "Quick Slants"
+    ]
+  },  "Kickoff": {
+    "Heavy Landing Zone NFL Kickoff": [
+      "Heavy Kickoff Left"
+,      "Heavy Kickoff Middle"
+,      "Heavy Kickoff Right"
+    ]
+,    "Landing Zone NFL Kickoff": [
+      "Kickoff Left"
+,      "Kickoff Middle"
+,      "Kickoff Right"
+    ]
+,    "NFL Kickoff": [
+      "Kickoff  Deep Middle"
+,      "Kickoff  Deep Right"
+,      "Kickoff Deep Left"
+    ]
+,    "NFL Onside Kick": [
+      "Onside Kick"
+    ]
+,    "NFL Onside Kick 2": [
+      "Speed Onside"
+    ]
+,    "NFL Onside Kick 3": [
+      "Strong Onside"
+    ]
+  },  "Pistol": {
+    "Doubles Y Off": [
+      "Counter Read Option"
+,      "Fade Smash"
+,      "Four Verticals"
+,      "GT Read Option"
+,      "HB Zone"
+,      "Orbit PA Y Corner"
+,      "Orbit Triple Option"
+,      "Orbit Triple Option Wk"
+,      "PA Slot Cross"
+,      "Read Option"
+,      "RPO Read Flat Wheel"
+,      "Y Lead Read Option"
+    ]
+,    "Strong": [
+      "F Lead Read Option"
+,      "HB Blast Alert X Smoke"
+,      "HB Dive Wk"
+,      "HB Power"
+,      "Inside Zone Split"
+,      "PA Boot Lt"
+,      "PA Corner HB Slip"
+,      "Power Option"
+,      "Slants"
+,      "Tr Opt Switch"
+,      "Tr Option Slip"
+,      "Triple Option"
+    ]
+  },  "Safety Kickoff": {
+    "Landing Zone Heavy Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Punt": [
+      "Punt Left"
+,      "Punt Middle"
+,      "Punt Right"
+    ]
+  },  "Shotgun": {
+    "5WR Trio": [
+      "Curl Flats"
+,      "Double Pivot"
+,      "Four Verticals"
+,      "Hitch Corners"
+,      "QB Draw"
+,      "Shallow Cross"
+,      "Slants"
+,      "Stick"
+,      "Strong Flood"
+    ]
+,    "Doubles": [
+      "Corner Strike"
+,      "Curl Flats"
+,      "Double Outs"
+,      "Double Slants"
+,      "Fake Jet Pass Power"
+,      "Four Verticals"
+,      "HB Mid Draw"
+,      "Inside Zone"
+,      "Inside Zone Read Opt"
+,      "Jet Pass Fk Zone"
+,      "Jet Touch Pass"
+,      "PA Dagger"
+,      "PA Read"
+,      "PA Zone Read"
+,      "Read Option"
+,      "RPO Peek Slant"
+,      "Slants Middle"
+,      "WR Seams"
+    ]
+,    "Split Wing Nasty": [
+      "Motion PA Mesh"
+,      "Motion Power O"
+,      "Motion Read Option"
+,      "Mtn PA Slide"
+,      "Mtn PA Y-Cross"
+,      "Mtn Read Lead Option"
+    ]
+,    "Spread Y-Flex": [
+      "Angle Y Sail"
+,      "Curl Flats"
+,      "Deep Attack"
+,      "HB Draw"
+,      "PA Seams"
+,      "QB Zone"
+,      "Read Option"
+,      "RPO Alert QB Draw"
+,      "RPO Peek Slant"
+,      "Slot Outs"
+,      "Smash Corners"
+,      "Spot N Go"
+    ]
+,    "Trey Open": [
+      "Curls X Go"
+,      "Drag Verticals"
+,      "Four Verticals"
+,      "HB Draw"
+,      "HB Slip Screen"
+,      "Inside Zone"
+,      "Levels Switch"
+,      "PA Read"
+,      "Power Read"
+,      "QB Zone"
+,      "Read Dig"
+,      "Read Option"
+,      "Salem"
+,      "Stick"
+,      "Strong Flood"
+,      "WR Mid Screen"
+,      "Y Corner"
+,      "Z Under"
+    ]
+,    "Trips TE": [
+      "HB Mid Draw"
+,      "HB Slip Screen"
+,      "Inside Zone"
+,      "PA Boot Shot"
+,      "PA Slot Corner"
+,      "Read Option"
+,      "Slot Quick Flat"
+,      "Speed Option"
+,      "TE Corner"
+,      "Texan Deep In"
+,      "Verticals"
+,      "WR Screen"
+    ]
+,    "U Off Trips": [
+      "Counter"
+,      "HB Sweep"
+,      "Jet Sweep"
+,      "Mtn QB Blast"
+,      "PA Jet Cross"
+,      "PA Jet Sweep"
+,      "PA U Corner Flood"
+,      "PA Y Screen"
+,      "Power"
+,      "Read Option"
+,      "RPO Alert Bubble"
+,      "Shock"
+    ]
+,    "Y Off Trio Wk": [
+      "Buck Sweep"
+,      "Dagger X Out"
+,      "DBL Ins"
+,      "Flood"
+,      "Four Verticals"
+,      "Orbit PA Cross"
+,      "Orbit PA Scissors"
+,      "PA Post Dig Shot"
+,      "Power Read"
+,      "Quick Fork Zig"
+,      "Quick Short Post"
+,      "Quick Unders"
+,      "RPO Alert Orbit"
+,      "Stick"
+,      "Y Lead Read Option"
+    ]
+  },  "Singleback": {
+    "Ace": [
+      "Flanker Curl"
+,      "HB Counter"
+,      "HB Dive"
+,      "HB Stretch"
+,      "HB Zone Wk"
+,      "PA Ctr Waggle"
+,      "PA DBL Go"
+,      "PA Deep In"
+,      "PA Roll Rt"
+,      "PA Stretch"
+,      "Skinny Posts"
+,      "X Post"
+    ]
+,    "Bunch": [
+      "HB Zone Wk"
+,      "Inside Zone Split"
+,      "PA Boot"
+,      "PA Boot Slide"
+,      "Seattle"
+,      "Spacing"
+,      "Y Flat Goalline"
+,      "Z Mesh Goalline"
+,      "Z Spot Goalline"
+    ]
+,    "Doubles": [
+      "Bubble Screen"
+,      "Curl Flats"
+,      "Flanker Drag"
+,      "Goalline Fade"
+,      "HB Cutback"
+,      "HB Pump Draw"
+,      "HB Slam"
+,      "HB Slash"
+,      "HB Slip Screen"
+,      "HB Stretch Alert Bubble"
+,      "Levels Divide"
+,      "PA Boot"
+,      "PA Stretch"
+,      "PA Y-Sail"
+,      "Streaks"
+    ]
+  },  "Special": {
+    "Field Goal": [
+      "Fake FG Holder Blast"
+,      "Fake FG K Flip Pass"
+,      "Fake FG Sprintout Pass"
+,      "Fake FG Y Shovel"
+,      "Field Goal"
+,      "Field Goal 2"
+    ]
+,    "Punt": [
+      "Fake Punt Off Tackle"
+,      "Fake Punt Sweep"
+,      "Fake Punt W Release"
+,      "Fake Punt X Curl"
+,      "Punt"
+,      "Punt 2"
+    ]
+,    "Punt Tight": [
+      "Punt"
+    ]
+,    "QB Kneel": [
+      "QB Kneel"
+    ]
+,    "Stop Clock": [
+      "Fake Spike"
+,      "Fake Spike 2"
+,      "Fake Spike 3"
+,      "Spike Ball"
+    ]
+  }}

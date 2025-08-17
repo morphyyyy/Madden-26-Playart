@@ -1,0 +1,196 @@
+{
+  "Goal Line Offense": {
+    "Normal": [
+      "FB Dive"
+,      "HB Counter Wk"
+,      "HB Dive"
+,      "HB Split O"
+,      "HB Sting"
+,      "PA Power O"
+,      "PA Spot"
+,      "PA Sprint HB Flat"
+,      "PA Waggle"
+,      "Power O"
+,      "QB Sneak"
+,      "Strong Toss"
+    ]
+  },  "Hail Mary": {
+    "Spread": [
+      "Goal Post"
+    ]
+,    "Trio": [
+      "Hail Mary"
+,      "Shot Save Clock"
+    ]
+  },  "Kickoff": {
+    "Heavy Landing Zone NFL Kickoff": [
+      "Heavy Kickoff Left"
+,      "Heavy Kickoff Middle"
+,      "Heavy Kickoff Right"
+    ]
+,    "Landing Zone NFL Kickoff": [
+      "Kickoff Left"
+,      "Kickoff Middle"
+,      "Kickoff Right"
+    ]
+,    "NFL Kickoff": [
+      "Kickoff  Deep Middle"
+,      "Kickoff  Deep Right"
+,      "Kickoff Deep Left"
+    ]
+,    "NFL Onside Kick": [
+      "Onside Kick"
+    ]
+,    "NFL Onside Kick 2": [
+      "Speed Onside"
+    ]
+,    "NFL Onside Kick 3": [
+      "Strong Onside"
+    ]
+  },  "Safety Kickoff": {
+    "Landing Zone Heavy Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Punt": [
+      "Punt Left"
+,      "Punt Middle"
+,      "Punt Right"
+    ]
+  },  "Shotgun": {
+    "Bunch HB Str": [
+      "49ers Dig"
+,      "Drive X Corner"
+,      "Inside Zone"
+,      "PA Bunch Shot"
+,      "Seattle"
+,      "Spacing"
+,      "Switch Flood"
+,      "Y Trail"
+,      "Z Spot"
+    ]
+,    "Empty Base Flex": [
+      "Jailbreak Slot Screen"
+,      "Levels Switch"
+,      "Middle Hi Lo"
+,      "QB Draw"
+,      "Stick"
+,      "Strong Curl"
+,      "Trail Shake"
+,      "Verticals"
+,      "Y Shallow Cross"
+    ]
+,    "Normal Y Off": [
+      "DBL Dig Smash"
+,      "Double Slants"
+,      "Four Verticals"
+,      "HB Counter"
+,      "HB Slip Screen"
+,      "Inside Zone"
+,      "Jet Pass Fk Zone"
+,      "PA Jet Sweep"
+,      "PA QB Choice"
+,      "RPO Peek Slant"
+,      "Y Shallow Cross"
+,      "Zone Fake Jet"
+    ]
+,    "Normal Y Off Wk": [
+      "Curl Combo"
+,      "Double Slants"
+,      "Four Verticals"
+,      "HB Slip Screen"
+,      "RPO Alert Bubble"
+,      "RPO Peek Post"
+,      "RPO Read Bubble"
+,      "WR Under"
+,      "X Dagger"
+    ]
+,    "Split Slot Open": [
+      "46 Y Cross"
+,      "689 Hook"
+,      "DBL Ins"
+,      "Dbl Slant"
+,      "Flood"
+,      "HB Gut"
+,      "HB Slip Screen"
+,      "Mesh Post Wheel"
+,      "PA HB Wheel"
+,      "Power Read"
+,      "RPO Peek Slant"
+,      "Shovel Option"
+    ]
+,    "Spread Y-Slot Wk": [
+      "Corner Strike"
+,      "Curl Combo"
+,      "Double Cross"
+,      "Double Slants"
+,      "Four Verticals"
+,      "HB Base"
+,      "HB Mid Draw"
+,      "HB Slip Screen"
+,      "PA Read"
+,      "RPO Peek Slant"
+,      "RPO Read Bubble"
+,      "Smash Corners"
+    ]
+,    "Trips": [
+      "Air Raid Under"
+,      "Cross Flood"
+,      "Four Verticals"
+,      "HB Mid Draw"
+,      "HB Slip Screen"
+,      "Inside Zone"
+,      "Middle Slant"
+,      "Read Special"
+,      "RPO Alert Bubble"
+,      "RPO Peek Stick"
+,      "Slot Drive"
+,      "Stick"
+    ]
+,    "Y Off Trips": [
+      "Curls"
+,      "Four Verticals"
+,      "HB Counter"
+,      "HB Slip Screen"
+,      "Inside Zone"
+,      "RPO Bubble Y Pop"
+,      "RPO Read WR Screen"
+,      "Slot 2 Buc"
+,      "Stick"
+    ]
+  },  "Special": {
+    "Field Goal": [
+      "Fake FG H Shovel"
+,      "Fake FG Holder Power"
+,      "Fake FG K Toss Pass"
+,      "Fake FG Rollout Pass"
+,      "Field Goal"
+,      "Field Goal 2"
+    ]
+,    "Punt": [
+      "Fake Punt FB Pass"
+,      "Fake Punt Off Tackle"
+,      "Fake Punt Sweep"
+,      "Fake Punt X Curl"
+,      "Punt"
+,      "Punt 2"
+    ]
+,    "Punt Tight": [
+      "Punt"
+    ]
+,    "QB Kneel": [
+      "QB Kneel"
+    ]
+,    "Stop Clock": [
+      "Fake Spike"
+,      "Fake Spike 2"
+,      "Fake Spike 3"
+,      "Spike Ball"
+    ]
+  }}

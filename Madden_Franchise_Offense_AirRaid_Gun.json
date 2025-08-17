@@ -1,0 +1,39 @@
+{
+  "Shotgun": {
+    "Cluster": [
+      "518 Hook"
+,      "Cluster Bunch"
+,      "HB Mid Draw"
+,      "HB Off Tackle"
+,      "HB Slip Screen"
+,      "Mesh"
+,      "Mesh Post"
+,      "Mesh Whip"
+,      "PA Read"
+,      "Spacing"
+,      "Verticals"
+,      "Z Spot"
+    ]
+,    "Open Flex": [
+      "Dagger"
+,      "Deep Outs"
+,      "Double Post"
+,      "HB Dive"
+,      "RPO Alert Cntr Screen"
+,      "RPO Read WR Screen"
+,      "RPO Read Y Flat"
+,      "Vertical TE Out"
+,      "X Seam"
+    ]
+,    "Split Slot Offset": [
+      "Flood"
+,      "HB Off Tackle"
+,      "Mtn PA Y Cross"
+,      "Mtn RPO Peek Swing Wk"
+,      "Mtn Spot"
+,      "Mtn Y Stick"
+,      "Mtn Zone WK"
+,      "RPO Read Cntr"
+,      "Slants Middle"
+    ]
+  }}

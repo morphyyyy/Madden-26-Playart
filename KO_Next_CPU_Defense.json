@@ -1,0 +1,103 @@
+{
+  "Kick Return": {
+    "Landing Zone NFL Kick Return": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+,      "Return Trap Middle"
+    ]
+,    "Landing Zone NFL Trick Kick Return": [
+      "Return Reverse Left "
+,      "Return Reverse Right"
+,      "Returner Read Option"
+    ]
+,    "New NFL Kick Return Heavy": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+,      "Return Trap Middle"
+    ]
+,    "NFL Kick Return": [
+      "Return Left Lead"
+,      "Return Middle Match Up"
+,      "Return Right Lead"
+    ]
+,    "Onside Base": [
+      "Base Onside"
+    ]
+,    "Onside Heavy": [
+      "Onside XL"
+    ]
+,    "Onside Small": [
+      "Hands Team"
+    ]
+  },  "Safety Kick Return": {
+    "Landing Zone Heavy Safety Return": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+,      "Return Trap Middle"
+    ]
+,    "Landing Zone Safety Return": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+,      "Return Trap Middle"
+    ]
+  },  "Small Sided": {
+    "6 on 6 Goalline": [
+      "Goalline Blitz Man"
+,      "Goalline Robber"
+,      "Goalline Zone Blitz"
+,      "Goalline Zone Blitz 2"
+    ]
+,    "6 on 6 One Deep": [
+      "Man CB Blitz"
+,      "Man Delay Blitz"
+,      "Man FS Blitz"
+,      "Man QB Spy"
+,      "Zone Deep"
+,      "Zone LB Blitz"
+,      "Zone Short"
+,      "Zone Triple Blitz"
+    ]
+,    "6 on 6 Two Deep": [
+      "Cover 2"
+,      "Man CB Blitz"
+,      "Man Delay Blitz"
+,      "Man Double Blitz"
+,      "Man Double Blitz CPU"
+,      "Man Double Blitz CPU2"
+,      "Man FS Blitz"
+,      "Zone Deep"
+,      "Zone Delay Blitz"
+,      "Zone Match"
+    ]
+  },  "Special": {
+    "Field Goal Block Left": [
+      "Base Block Left"
+,      "Load Block Left"
+,      "Safe Man Left"
+    ]
+,    "Field Goal Block Right": [
+      "Base Block Right"
+,      "Load Block Right"
+,      "Safe Man Right"
+    ]
+,    "Field Goal Return": [
+      "FG Block Return"
+    ]
+,    "Punt Block 44 Even": [
+      "8 Up Safe Man"
+,      "Squeeze Block"
+,      "Straight Rush"
+    ]
+,    "Punt Return 33 Even": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+    ]
+,    "Punt Safe": [
+      "Punt Safe Man"
+    ]
+  }}

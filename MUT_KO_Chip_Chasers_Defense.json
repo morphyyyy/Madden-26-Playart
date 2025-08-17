@@ -1,0 +1,120 @@
+{
+  "4-3": {
+    "Over Solid": [
+      "Cover 4 Quarters"
+,      "FS Blitz"
+,      "Tampa 2"
+    ]
+,    "Over Wide": [
+      "Cover 1 Contain"
+,      "Cover 2 Invert"
+,      "Cover 3 Cloud Show 2"
+    ]
+  },  "46": {
+    "Bear Under": [
+      "Cover 3"
+,      "LB Dogs"
+,      "LB Dogs 3"
+    ]
+  },  "5-2": {
+    "Normal": [
+      "Cover 1"
+,      "Fire Zone 2"
+,      "Pinch"
+    ]
+  },  "Big Nickel": {
+    "Over G": [
+      "Cover 2 Contain"
+,      "Cover 3 Buzz Match"
+,      "Cover 4 Palms"
+    ]
+  },  "Dollar": {
+    "3-2": [
+      "Cover 3 Buzz Spy"
+,      "Cover 4 Drop Contain"
+,      "DB Fire 2"
+    ]
+  },  "Kick Return": {
+    "Landing Zone NFL Kick Return": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+,      "Return Trap Middle"
+    ]
+,    "Landing Zone NFL Trick Kick Return": [
+      "Return Reverse Left "
+,      "Return Reverse Right"
+,      "Returner Read Option"
+    ]
+,    "New NFL Kick Return Heavy": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+,      "Return Trap Middle"
+    ]
+,    "NFL Kick Return": [
+      "Return Left Lead"
+,      "Return Middle Match Up"
+,      "Return Right Lead"
+    ]
+,    "Onside Base": [
+      "Base Onside"
+    ]
+,    "Onside Heavy": [
+      "Onside XL"
+    ]
+,    "Onside Small": [
+      "Hands Team"
+    ]
+  },  "Nickel": {
+    "3-3": [
+      "Cover 4 Drop"
+,      "LB Cross 3"
+,      "Loop Crash 2"
+    ]
+,    "Over": [
+      "Cover 1 LB Blitz"
+,      "Cover 3 Hard Flat"
+,      "Cover 4 Quarters"
+    ]
+  },  "Safety Kick Return": {
+    "Landing Zone Heavy Safety Return": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+,      "Return Trap Middle"
+    ]
+,    "Landing Zone Safety Return": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+,      "Return Trap Middle"
+    ]
+  },  "Special": {
+    "Field Goal Block Left": [
+      "Base Block Left"
+,      "Load Block Left"
+,      "Safe Man Left"
+    ]
+,    "Field Goal Block Right": [
+      "Base Block Right"
+,      "Load Block Right"
+,      "Safe Man Right"
+    ]
+,    "Field Goal Return": [
+      "FG Block Return"
+    ]
+,    "Punt Block 44 Even": [
+      "8 Up Safe Man"
+,      "Squeeze Block"
+,      "Straight Rush"
+    ]
+,    "Punt Return 33 Even": [
+      "Return Left"
+,      "Return Middle"
+,      "Return Right"
+    ]
+,    "Punt Safe": [
+      "Punt Safe Man"
+    ]
+  }}

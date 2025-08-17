@@ -1,0 +1,132 @@
+{
+  "Kickoff": {
+    "Heavy Landing Zone NFL Kickoff": [
+      "Heavy Kickoff Left"
+,      "Heavy Kickoff Middle"
+,      "Heavy Kickoff Right"
+    ]
+,    "Landing Zone NFL Kickoff": [
+      "Kickoff Left"
+,      "Kickoff Middle"
+,      "Kickoff Right"
+    ]
+,    "NFL Kickoff": [
+      "Kickoff  Deep Middle"
+,      "Kickoff  Deep Right"
+,      "Kickoff Deep Left"
+    ]
+,    "NFL Onside Kick": [
+      "Onside Kick"
+    ]
+,    "NFL Onside Kick 2": [
+      "Speed Onside"
+    ]
+,    "NFL Onside Kick 3": [
+      "Strong Onside"
+    ]
+  },  "Pistol": {
+    "Bunch TE": [
+      "Cross Drag"
+,      "Flood"
+,      "Stick"
+    ]
+  },  "Safety Kickoff": {
+    "Landing Zone Heavy Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Kick": [
+      "Kick Left"
+,      "Kick Middle"
+,      "Kick Right"
+    ]
+,    "Landing Zone Safety Punt": [
+      "Punt Left"
+,      "Punt Middle"
+,      "Punt Right"
+    ]
+  },  "Shotgun": {
+    "5WR Trio": [
+      "Jet Sweep"
+,      "Shallow Cross"
+,      "WR Screens"
+    ]
+,    "Ace Slot Offset": [
+      "China Double In"
+,      "Levels Y Sail"
+    ]
+,    "Bunch Offset": [
+      "Spacing"
+,      "Verts HB Under"
+    ]
+,    "Doubles Flex Wk Swap": [
+      "FL Screen"
+,      "Mtn Drag"
+    ]
+,    "Doubles Y Off Wk": [
+      "Double Post"
+,      "Four Verticals"
+    ]
+,    "Empty Base Flex": [
+      "Verticals"
+,      "WR Screen"
+,      "Y Corner"
+    ]
+,    "Split Close Pro": [
+      "Corner Strike"
+,      "Y Curl"
+    ]
+,    "Split Twins": [
+      "Redzone HB Corner"
+,      "Texas"
+    ]
+,    "Spread Dbl Flex": [
+      "FL Cross"
+,      "Four Verticals"
+    ]
+,    "Trey Y-Flex": [
+      "Fake Screen Wheel"
+,      "Stick"
+    ]
+  },  "Singleback": {
+    "Ace Close": [
+      "Bench"
+,      "Stick"
+    ]
+  },  "Special": {
+    "Field Goal": [
+      "Fake FG K Direct Snap"
+,      "Fake FG K Toss Pass"
+,      "Fake FG Kicker Flip"
+,      "Fake FG Rollout Pass"
+,      "Field Goal"
+,      "Field Goal 2"
+    ]
+,    "Punt": [
+      "Fake Punt Off Tackle"
+,      "Fake Punt Sweep"
+,      "Fake Punt W Release"
+,      "Fake Punt X Curl"
+,      "Punt"
+,      "Punt 2"
+    ]
+,    "Punt Tight": [
+      "Punt"
+    ]
+,    "QB Kneel": [
+      "QB Kneel"
+    ]
+,    "Stop Clock": [
+      "Fake Spike"
+,      "Fake Spike 2"
+,      "Fake Spike 3"
+,      "Spike Ball"
+    ]
+  },  "Split Backs": {
+    "Slot": [
+      "Dagger"
+,      "Double Slant"
+,      "Texas"
+    ]
+  }}
